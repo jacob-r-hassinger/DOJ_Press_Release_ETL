@@ -1,0 +1,1292 @@
+City,State_abr,State,Description,Equity,Fiscal Year
+Anchorage,AK,Alaska,Aircraft,"$1,400,000 ",2015
+Anchorage,AK       ,Alaska,Aircraft,"$1,400,000 ",2016
+Anchorage,AK         ,Alaska,Aircraft,"$1,400,000 ",2017
+Bay Minette,AL         ,Alaska,US Currency,"$1,248,915 ",2019
+Birmingham,AL          ,Alaska,US Currency,"$1,367,398 ",2016
+Birmingham,AL          ,Alaska,US Currency,"$1,781,158 ",2016
+Birmingham,AL          ,Alaska,Financial Instrument - Financial Account,"$5,462,027 ",2018
+Birmingham,AL          ,Alaska,US Currency,"$5,462,027 ",2019
+Huntsville,AL          ,Alaska,US Currency,"$1,763,189 ",2016
+Boligee,AL             ,Alaska,US Currency,"$1,320,321 ",2019
+Chelsea,AL             ,Alaska,Real Property,"$1,000,000 ",2016
+Hoover,AL              ,Alaska,US Currency,"$3,904,575 ",2019
+Little Rock,AR         ,Alaska,US Currency,"$1,000,822 ",2015
+Little Rock,AR         ,Alaska,US Currency,"$1,001,891 ",2015
+Little Rock,AR         ,Alaska,US Currency,"$1,622,342 ",2015
+Little Rock,AR         ,Alaska,US Currency,"$2,131,793 ",2015
+Little Rock,AR         ,Alaska,US Currency,"$2,041,671 ",2017
+London,AR              ,Alaska,US Currency,"$1,789,520 ",2015
+London,AR              ,Alaska,US Currency,"$1,789,520 ",2016
+Sydney,AU,Australia              ,US Currency,"$9,805,622 ",2018
+Pinetop,AZ,Arizona,Real Property,"$1,095,500 ",2017
+Pinetop,AZ,Arizona,Real Property,"$1,095,500 ",2018
+Paradise Valley,AZ     ,Arizona,Real Property,"$2,490,000 ",2018
+Paradise Valley,AZ     ,Arizona,Real Property,"$2,250,000 ",2019
+Fort Mohave,AZ         ,Arizona,US Currency,"$1,048,450 ",2017
+Fort Mohave,AZ         ,Arizona,US Currency,"$1,048,450 ",2018
+Fort Mohave,AZ         ,Arizona,US Currency,"$1,048,450 ",2019
+Phoenix,AZ            ,Arizona,US Currency,"$1,022,696 ",2019
+Phoenix,AZ             ,Arizona,Financial Instrument - Financial Account,"$1,001,731 ",2018
+Phoenix,AZ             ,Arizona,Financial Instrument - Financial Account,"$1,546,076 ",2018
+Phoenix,AZ             ,Arizona,US Currency,"$1,001,731 ",2019
+Phoenix,AZ             ,Arizona,US Currency,"$1,546,076 ",2019
+Tempe,AZ               ,Arizona,US Currency,"$1,431,867 ",2019
+Benicia,CA,California,Vehicles,"$1,540,000 ",2019
+Beverly Hills,CA,California,US Currency,"$30,847,709 ",2017
+Irvine,CA,California,US Currency,"$1,000,000 ",2016
+Irvine,CA,California,US Currency,"$1,000,000 ",2015
+Los Angeles,CA,California,US Currency,"$2,717,835 ",2019
+Los Angeles,CA,California,Real Property,"$2,100,000 ",2019
+Los Angeles,CA   ,California,US Currency,"$1,130,619 ",2018
+Beverly Hills,CA     ,California,US Currency,"$1,027,640 ",2016
+Santa Clarita,CA     ,California,Printed Media,"$2,130,595 ",2016
+Foothill Ranch,CA      ,California,US Currency,"$2,986,758 ",2018
+Foothill Ranch,CA      ,California,US Currency,"$2,986,758 ",2019
+San Francisco,CA      ,California,US Currency,"$1,664,208 ",2017
+Santa Clarita,CA      ,California,Printed Media,"$2,130,595 ",2017
+Santa Clarita,CA      ,California,Printed Media,"$2,130,595 ",2018
+West Hollywood,CA      ,California,Miscellaneous Art Work,"$1,200,000 ",2017
+Beverly Hills,CA       ,California,US Currency,"$1,027,640 ",2017
+Beverly Hills,CA       ,California,US Currency,"$1,027,640 ",2018
+Beverly Hills,CA       ,California,US Currency,"$30,847,709 ",2018
+Beverly Hills,CA       ,California,US Currency,"$1,448,700 ",2019
+Beverly Hills,CA       ,California,US Currency,"$30,847,709 ",2019
+Laguna Niguel,CA       ,California,Financial Instrument - Financial Account,"$1,486,868 ",2018
+Los Angeles,CA       ,California,US Currency,"$1,130,619 ",2017
+San Francisco,CA       ,California,US Currency,"$1,076,637 ",2015
+San Francisco,CA       ,California,US Currency,"$1,664,208 ",2015
+San Francisco,CA       ,California,US Currency,"$31,989,550 ",2015
+San Francisco,CA       ,California,Financial Instrument - Bitcoins,"$11,123,967 ",2015
+San Francisco,CA       ,California,US Currency,"$1,076,637 ",2016
+San Francisco,CA       ,California,US Currency,"$1,664,208 ",2016
+San Francisco,CA       ,California,US Currency,"$2,800,000 ",2016
+San Francisco,CA       ,California,US Currency,"$24,119,058 ",2016
+San Francisco,CA       ,California,US Currency,"$24,119,058 ",2016
+San Francisco,CA       ,California,US Currency,"$2,800,000 ",2017
+San Francisco,CA       ,California,US Currency,"$1,664,208 ",2018
+San Francisco,CA       ,California,US Currency,"$2,800,000 ",2018
+San Francisco,CA       ,California,US Currency,"$1,664,208 ",2019
+San Francisco,CA       ,California,US Currency,"$2,800,000 ",2019
+Santa Clarita,CA       ,California,Printed Media,"$2,130,595 ",2019
+Walnut,CA       ,California,US Currency,"$1,000,000 ",2015
+Baldwin Park,CA        ,California,US Currency,"$1,548,611 ",2018
+Los Angeles,CA        ,California,Financial Instrument - Financial Account,"$1,508,170 ",2015
+Los Angeles,CA        ,California,Financial Instrument - Financial Account,"$5,132,218 ",2015
+Los Angeles,CA        ,California,Miscellaneous Artwork,"$3,000,000 ",2019
+Los Angeles,CA        ,California,US Currency,"$2,926,859 ",2019
+Signal Hill,CA        ,California,Miscellaneous Artwork,"$1,250,000 ",2019
+Bakersfield,CA         ,California,US Currency,"$2,676,000 ",2015
+Bakersfield,CA         ,California,US Currency,"$2,676,000 ",2016
+Bakersfield,CA         ,California,US Currency,"$2,676,000 ",2017
+Bakersfield,CA         ,California,US Currency,"$2,676,000 ",2018
+Bloomington,CA         ,California,US Currency,"$6,171,445 ",2016
+Buena Park,CA         ,California,US Currency,"$1,333,369 ",2019
+Long Beach,CA         ,California,Financial Instrument - Financial Account,"$1,500,000 ",2019
+Los Angeles,CA         ,California,US Currency,"$1,621,352 ",2015
+Los Angeles,CA         ,California,US Currency,"$2,670,744 ",2015
+Los Angeles,CA         ,California,US Currency,"$4,251,097 ",2015
+Los Angeles,CA         ,California,US Currency,"$4,605,032 ",2015
+Los Angeles,CA         ,California,Financial Instrument - Financial Account,"$1,046,785 ",2015
+Los Angeles,CA         ,California,US Currency,"$1,621,352 ",2016
+Los Angeles,CA         ,California,US Currency,"$2,670,744 ",2016
+Los Angeles,CA         ,California,US Currency,"$3,168,400 ",2016
+Los Angeles,CA         ,California,US Currency,"$4,251,097 ",2016
+Los Angeles,CA         ,California,Financial Instrument - Financial Account,"$1,046,785 ",2016
+Los Angeles,CA         ,California,Financial Instrument - Financial Account,"$5,132,218 ",2016
+Los Angeles,CA         ,California,US Currency,"$3,168,400 ",2017
+Los Angeles,CA         ,California,US Currency,"$4,251,097 ",2017
+Los Angeles,CA         ,California,US Currency,"$6,170,451 ",2017
+Los Angeles,CA         ,California,Financial Instrument - Financial Account,"$1,046,785 ",2017
+Los Angeles,CA         ,California,Financial Instrument - Financial Account,"$1,368,749 ",2017
+Los Angeles,CA         ,California,Financial Instrument - Financial Account,"$5,237,552 ",2017
+Los Angeles,CA         ,California,Miscellaneous Jewelry,"$2,008,050 ",2017
+Los Angeles,CA         ,California,Miscellaneous Jewelry,"$7,162,900 ",2017
+Los Angeles,CA         ,California,US Currency,"$1,286,119 ",2018
+Los Angeles,CA         ,California,US Currency,"$1,340,820 ",2018
+Los Angeles,CA         ,California,US Currency,"$1,400,000 ",2018
+Los Angeles,CA         ,California,US Currency,"$1,750,000 ",2018
+Los Angeles,CA         ,California,US Currency,"$1,912,877 ",2018
+Los Angeles,CA         ,California,US Currency,"$4,251,097 ",2018
+Los Angeles,CA         ,California,US Currency,"$6,170,451 ",2018
+Los Angeles,CA         ,California,US Currency,"$6,888,842 ",2018
+Los Angeles,CA         ,California,Financial Instrument - Cryptocurrency,"$1,104,065 ",2018
+Los Angeles,CA         ,California,Financial Instrument - Cryptocurrency,"$3,454,228 ",2018
+Los Angeles,CA         ,California,Miscellaneous Jewelry,"$7,162,900 ",2018
+Los Angeles,CA         ,California,US Currency,"$1,130,619 ",2019
+Los Angeles,CA         ,California,US Currency,"$1,286,119 ",2019
+Los Angeles,CA         ,California,US Currency,"$1,443,614 ",2019
+Los Angeles,CA         ,California,US Currency,"$1,549,615 ",2019
+Los Angeles,CA         ,California,US Currency,"$1,557,739 ",2019
+Los Angeles,CA         ,California,US Currency,"$3,180,023 ",2019
+Los Angeles,CA         ,California,US Currency,"$4,251,097 ",2019
+Los Angeles,CA         ,California,US Currency,"$4,859,536 ",2019
+Los Angeles,CA         ,California,US Currency,"$6,170,451 ",2019
+Los Angeles,CA         ,California,US Currency,"$6,187,420 ",2019
+Los Angeles,CA         ,California,US Currency,"$6,567,898 ",2019
+Los Angeles,CA         ,California,US Currency,"$6,888,842 ",2019
+Los Angeles,CA         ,California,US Currency,"$9,004,532 ",2019
+Los Angeles,CA         ,California,Financial Instrument - Cryptocurrency,"$1,104,065 ",2019
+Los Angeles,CA         ,California,Miscellaneous Jewelry,"$7,162,900 ",2019
+Santa Rosa,CA         ,California,Real Property,"$31,000,000 ",2019
+Signal Hill,CA         ,California,Miscellaneous Artwork,"$1,250,000 ",2018
+Signal Hill,CA         ,California,Miscellaneous Artwork,"$2,875,000 ",2018
+Signal Hill,CA         ,California,Miscellaneous Artwork,"$2,875,000 ",2019
+Long Beach,CA          ,California,US Currency,"$2,000,000 ",2019
+Long Beach,CA          ,California,Financial Instrument - Cashiers Check,"$1,000,000 ",2019
+Northridge,CA          ,California,US Currency,"$1,235,670 ",2019
+Sacramento,CA          ,California,US Currency,"$1,050,000 ",2017
+Sacramento,CA          ,California,US Currency,"$1,000,000 ",2018
+Sacramento,CA          ,California,US Currency,"$1,050,000 ",2018
+Sacramento,CA          ,California,US Currency,"$1,000,000 ",2019
+San Diego,CA          ,California,US Currency,"$8,253,316 ",2019
+Beaumont,CA           ,California,US Currency,"$1,211,125 ",2018
+Fairfield,CA           ,California,Real Property,"$3,700,000 ",2019
+Riverside,CA           ,California,US Currency,"$3,009,735 ",2016
+Roseville,CA           ,California,US Currency,"$1,090,590 ",2019
+Roseville,CA           ,California,US Currency,"$1,351,144 ",2019
+San Diego,CA           ,California,US Currency,"$1,037,100 ",2015
+San Diego,CA           ,California,US Currency,"$1,324,691 ",2015
+San Diego,CA           ,California,US Currency,"$1,390,515 ",2015
+San Diego,CA           ,California,US Currency,"$1,679,970 ",2015
+San Diego,CA           ,California,US Currency,"$1,037,100 ",2016
+San Diego,CA           ,California,US Currency,"$1,324,691 ",2016
+San Diego,CA           ,California,US Currency,"$1,390,515 ",2016
+San Diego,CA           ,California,US Currency,"$1,679,970 ",2016
+San Diego,CA           ,California,US Currency,"$1,037,100 ",2017
+San Diego,CA           ,California,US Currency,"$1,324,691 ",2017
+San Diego,CA           ,California,US Currency,"$1,390,515 ",2017
+San Diego,CA           ,California,US Currency,"$1,679,970 ",2017
+San Diego,CA           ,California,US Currency,"$1,037,100 ",2018
+San Diego,CA           ,California,US Currency,"$1,324,691 ",2018
+San Diego,CA           ,California,US Currency,"$1,390,515 ",2018
+San Diego,CA           ,California,US Currency,"$1,679,970 ",2018
+San Diego,CA           ,California,US Currency,"$1,037,100 ",2019
+San Diego,CA           ,California,US Currency,"$1,084,218 ",2019
+San Diego,CA           ,California,US Currency,"$1,096,141 ",2019
+San Diego,CA           ,California,US Currency,"$1,123,694 ",2019
+San Diego,CA           ,California,US Currency,"$1,390,603 ",2019
+San Diego,CA           ,California,US Currency,"$1,407,605 ",2019
+San Diego,CA           ,California,US Currency,"$1,426,777 ",2019
+San Diego,CA           ,California,US Currency,"$1,500,140 ",2019
+San Diego,CA           ,California,US Currency,"$1,679,970 ",2019
+San Diego,CA           ,California,US Currency,"$1,808,274 ",2019
+San Diego,CA           ,California,US Currency,"$2,152,203 ",2019
+San Diego,CA           ,California,US Currency,"$2,200,000 ",2019
+San Diego,CA           ,California,US Currency,"$2,920,884 ",2019
+San Diego,CA           ,California,US Currency,"$4,200,000 ",2019
+San Diego,CA           ,California,US Currency,"$4,870,000 ",2019
+San Diego,CA           ,California,US Currency,"$10,402,132 ",2019
+Santa Ana,CA           ,California,US Currency,"$1,023,116 ",2018
+Beaumont,CA            ,California,US Currency,"$1,211,125 ",2019
+Cerritos,CA            ,California,US Currency,"$1,539,830 ",2016
+Cerritos,CA            ,California,US Currency,"$1,539,830 ",2017
+Cerritos,CA            ,California,US Currency,"$1,539,830 ",2018
+El Cajon,CA            ,California,US Currency,"$1,428,718 ",2019
+La Habra,CA            ,California,US Currency,"$8,488,674 ",2015
+La Habra,CA            ,California,US Currency,"$8,488,674 ",2016
+La Habra,CA            ,California,US Currency,"$8,488,674 ",2017
+La Habra,CA            ,California,US Currency,"$8,488,674 ",2018
+La Habra,CA            ,California,US Currency,"$8,488,674 ",2019
+Lakewood,CA            ,California,US Currency,"$1,023,395 ",2018
+Lakewood,CA            ,California,US Currency,"$1,023,395 ",2019
+San Jose,CA            ,California,US Currency,"$1,241,681 ",2015
+San Jose,CA            ,California,US Currency,"$4,934,463 ",2015
+San Jose,CA            ,California,US Currency,"$1,241,681 ",2016
+San Jose,CA            ,California,US Currency,"$4,934,463 ",2016
+San Jose,CA            ,California,US Currency,"$1,241,681 ",2017
+San Jose,CA            ,California,US Currency,"$4,934,463 ",2017
+San Jose,CA            ,California,US Currency,"$1,241,681 ",2018
+San Jose,CA            ,California,US Currency,"$4,934,463 ",2018
+San Jose,CA            ,California,US Currency,"$1,235,827 ",2019
+San Jose,CA            ,California,US Currency,"$1,241,681 ",2019
+San Jose,CA            ,California,US Currency,"$4,934,463 ",2019
+Van Nuys,CA            ,California,US Currency,"$5,565,605 ",2018
+Anaheim,CA             ,California,US Currency,"$2,303,425 ",2016
+Anaheim,CA             ,California,US Currency,"$2,303,425 ",2017
+Anaheim,CA             ,California,US Currency,"$2,303,425 ",2018
+Anaheim,CA             ,California,US Currency,"$2,303,425 ",2019
+Banning,CA             ,California,US Currency,"$1,079,000 ",2017
+Banning,CA             ,California,US Currency,"$1,079,000 ",2018
+Banning,CA             ,California,US Currency,"$1,079,000 ",2019
+Barstow,CA             ,California,US Currency,"$1,443,015 ",2015
+Benicia,CA             ,California,US Currency,"$1,151,811 ",2019
+Benicia,CA             ,California,US Currency,"$1,697,154 ",2019
+Benicia,CA             ,California,Real Property,"$6,500,000 ",2019
+Concord,CA             ,California,US Currency,"$2,184,429 ",2019
+Fontana,CA             ,California,US Currency,"$1,504,931 ",2015
+Needles,CA             ,California,US Currency,"$1,299,308 ",2017
+Orange,CA             ,California,US Currency,"$1,756,671 ",2017
+Colton,CA              ,California,US Currency,"$1,070,050 ",2018
+Irvine,CA              ,California,US Currency,"$1,204,582 ",2015
+Irvine,CA              ,California,US Currency,"$2,112,674 ",2015
+Irvine,CA              ,California,US Currency,"$1,204,582 ",2016
+Irvine,CA              ,California,US Currency,"$2,112,674 ",2016
+Irvine,CA              ,California,US Currency,"$1,000,000 ",2017
+Irvine,CA              ,California,US Currency,"$1,204,582 ",2017
+Irvine,CA              ,California,US Currency,"$2,112,674 ",2017
+Irvine,CA              ,California,US Currency,"$1,000,000 ",2018
+Irvine,CA              ,California,US Currency,"$1,204,582 ",2018
+Irvine,CA              ,California,US Currency,"$2,112,674 ",2018
+Irvine,CA              ,California,US Currency,"$1,000,000 ",2019
+Irvine,CA              ,California,US Currency,"$1,096,868 ",2019
+Irvine,CA              ,California,US Currency,"$1,204,582 ",2019
+Irvine,CA              ,California,US Currency,"$2,112,674 ",2019
+Orange,CA              ,California,US Currency,"$1,079,149 ",2015
+Orange,CA              ,California,US Currency,"$1,756,671 ",2015
+Orange,CA              ,California,US Currency,"$1,756,671 ",2016
+Orange,CA              ,California,US Currency,"$1,756,671 ",2018
+Pomona,CA              ,California,US Currency,"$1,208,272 ",2017
+Walnut,CA              ,California,US Currency,"$1,000,000 ",2016
+Walnut,CA              ,California,US Currency,"$1,000,000 ",2017
+Walnut,CA              ,California,US Currency,"$1,000,000 ",2018
+Walnut,CA              ,California,US Currency,"$1,000,000 ",2019
+Ojai,CA               ,California,Financial Instrument - Cryptocurrency,"$1,604,870 ",2019
+Ojai,CA                ,California,US Currency,"$1,229,900 ",2019
+Greenwood Village,CO   ,Colorado,US Currency,"$1,032,005 ",2018
+Greenwood Village,CO   ,Colorado,US Currency,"$1,285,623 ",2018
+Greenwood Village,CO   ,Colorado,US Currency,"$1,491,205 ",2018
+Greenwood Village,CO   ,Colorado,US Currency,"$1,513,635 ",2018
+Greenwood Village,CO   ,Colorado,US Currency,"$1,285,623 ",2019
+Greenwood Village,CO   ,Colorado,US Currency,"$1,491,205 ",2019
+Greenwood Village,CO   ,Colorado,US Currency,"$1,513,635 ",2019
+Englewood,CO          ,Colorado,US Currency,"$146,500,000 ",2017
+Englewood,CO           ,Colorado,US Currency,"$146,500,000 ",2017
+Lone Tree,CO           ,Colorado,US Currency,"$1,801,013 ",2017
+Lone Tree,CO           ,Colorado,US Currency,"$1,801,013 ",2018
+Lone Tree,CO           ,Colorado,US Currency,"$1,801,013 ",2019
+Arvada,CO              ,Colorado,US Currency,"$2,114,922 ",2019
+New Haven,CT           ,Connecticut,US Currency,"$1,257,948 ",2018
+New Haven,CT           ,Connecticut,US Currency,"$2,462,934 ",2018
+New Haven,CT           ,Connecticut,US Currency,"$1,257,948 ",2019
+New Haven,CT           ,Connecticut,US Currency,"$2,462,934 ",2019
+Enfield,CT             ,Connecticut,US Currency,"$1,100,114 ",2019
+Hamden,CT              ,Connecticut,US Currency,"$4,096,229 ",2016
+Hamden,CT              ,Connecticut,US Currency,"$4,240,254 ",2016
+Hamden,CT              ,Connecticut,US Currency,"$4,096,229 ",2017
+Hamden,CT              ,Connecticut,US Currency,"$4,240,254 ",2017
+Hamden,CT              ,Connecticut,US Currency,"$4,096,229 ",2018
+Hamden,CT              ,Connecticut,US Currency,"$4,240,254 ",2018
+District Of Columbia,DC,District Of Columbia,US Currency,"$1,005,347 ",2018
+Washington,DC         ,District Of Columbia,US Currency,"$2,601,286 ",2018
+Washington,DC          ,District Of Columbia,US Currency,"$2,601,286 ",2015
+Washington,DC          ,District Of Columbia,US Currency,"$3,350,000 ",2015
+Washington,DC          ,District Of Columbia,US Currency,"$10,999,805 ",2015
+Washington,DC          ,District Of Columbia,US Currency,"$2,601,286 ",2016
+Washington,DC          ,District Of Columbia,US Currency,"$2,999,931 ",2016
+Washington,DC          ,District Of Columbia,US Currency,"$3,350,000 ",2016
+Washington,DC          ,District Of Columbia,US Currency,"$10,999,805 ",2016
+Washington,DC          ,District Of Columbia,US Currency,"$2,601,286 ",2017
+Washington,DC          ,District Of Columbia,US Currency,"$2,999,931 ",2017
+Washington,DC          ,District Of Columbia,US Currency,"$3,350,000 ",2017
+Washington,DC          ,District Of Columbia,US Currency,"$10,999,805 ",2017
+Washington,DC          ,District Of Columbia,US Currency,"$2,999,931 ",2018
+Washington,DC          ,District Of Columbia,US Currency,"$3,350,000 ",2018
+Washington,DC          ,District Of Columbia,US Currency,"$10,999,805 ",2018
+Washington,DC          ,District Of Columbia,Financial Instrument - Cryptocurrency Platform,"$2,148,165 ",2018
+Washington,DC          ,District Of Columbia,Financial Instrument - Cryptocurrency,"$5,828,485 ",2018
+Washington,DC          ,District Of Columbia,US Currency,"$1,005,347 ",2019
+Washington,DC          ,District Of Columbia,US Currency,"$2,601,286 ",2019
+Washington,DC          ,District Of Columbia,US Currency,"$2,999,931 ",2019
+Washington,DC          ,District Of Columbia,US Currency,"$3,350,000 ",2019
+Washington,DC          ,District Of Columbia,US Currency,"$10,999,805 ",2019
+Washington,DC          ,District Of Columbia,Financial Instrument - Cryptocurrency/Ethereum,"$1,156,245 ",2019
+Washington,DC          ,District Of Columbia,Financial Instrument - Cryptocurrency,"$5,828,485 ",2019
+Newark,DE              ,Delaware,US Currency,"$8,521,177 ",2019
+Fort Lauderdale,FL,Florida,Vessels,"$6,200,000 ",2019
+Miami,FL,Florida,US Currency,"$1,961,050 ",2017
+Palm Beach Gardens,FL ,Florida,US Currency,"$1,062,805 ",2015
+West Palm Beach,FL   ,Florida,Vessel,"$32,000,000 ",2018
+Fort Lauderdale,FL     ,Florida,US Currency,"$1,166,153 ",2015
+West Palm Beach,FL     ,Florida,US Currency,"$35,486,373 ",2019
+Champions Gate,FL      ,Florida,US Currency,"$1,700,000 ",2015
+Champions Gate,FL      ,Florida,US Currency,"$1,700,000 ",2016
+Fort Lauderdale,FL      ,Florida,US Currency,"$1,250,804 ",2017
+Fort Lauderdale,FL      ,Florida,Vessel,"$6,200,000 ",2017
+Fort Lauderdale,FL      ,Florida,Vessel,"$6,200,000 ",2018
+Saint Petersburg,FL      ,Florida,US Currency,"$8,659,396 ",2015
+Jacksonville,FL       ,Florida,US Currency,"$1,503,836 ",2019
+Pinellas Park,FL       ,Florida,US Currency,"$1,276,782 ",2015
+Pinellas Park,FL       ,Florida,US Currency,"$1,276,782 ",2016
+Pinellas Park,FL       ,Florida,US Currency,"$1,276,782 ",2017
+Pinellas Park,FL       ,Florida,US Currency,"$1,276,782 ",2018
+Pinellas Park,FL       ,Florida,US Currency,"$1,276,782 ",2019
+Pompano Beach,FL       ,Florida,Aircraft,"$1,451,115 ",2018
+Pompano Beach,FL       ,Florida,Aircraft,"$1,451,115 ",2019
+Delray Beach,FL        ,Florida,US Currency,"$5,294,576 ",2018
+Jacksonville,FL        ,Florida,US Currency,"$5,177,315 ",2015
+Jacksonville,FL        ,Florida,US Currency,"$12,987,313 ",2015
+Jacksonville,FL        ,Florida,Financial Instrument - Financial Account,"$5,634,451 ",2015
+Jacksonville,FL        ,Florida,Financial Instrument -Financial Account,"$109,646,565 ",2015
+Jacksonville,FL        ,Florida,US Currency,"$5,177,315 ",2016
+Jacksonville,FL        ,Florida,US Currency,"$12,987,313 ",2016
+Jacksonville,FL        ,Florida,Financial Instrument - Financial Account,"$5,634,451 ",2016
+Jacksonville,FL        ,Florida,Financial Instrument - Financial Account,"$109,646,565 ",2016
+Jacksonville,FL        ,Florida,US Currency,"$5,177,315 ",2017
+Jacksonville,FL        ,Florida,US Currency,"$12,987,313 ",2017
+Jacksonville,FL        ,Florida,Financial Instrument - Financial Account,"$5,634,451 ",2017
+Jacksonville,FL        ,Florida,Financial Instrument - Financial Account,"$109,646,565 ",2017
+Jacksonville,FL        ,Florida,US Currency,"$1,035,851 ",2018
+Jacksonville,FL        ,Florida,US Currency,"$5,177,315 ",2018
+Jacksonville,FL        ,Florida,US Currency,"$12,987,313 ",2018
+Jacksonville,FL        ,Florida,Financial Instrument - Financial Account,"$5,634,451 ",2018
+Jacksonville,FL        ,Florida,Financial Instrument - Financial Account,"$109,646,565 ",2018
+Jacksonville,FL        ,Florida,US Currency,"$1,001,494 ",2019
+Jacksonville,FL        ,Florida,US Currency,"$1,080,851 ",2019
+Jacksonville,FL        ,Florida,US Currency,"$3,032,717 ",2019
+Jacksonville,FL        ,Florida,US Currency,"$5,177,315 ",2019
+Brooksville,FL         ,Florida,US Currency,"$1,360,329 ",2019
+Brooksville,FL         ,Florida,US Currency,"$5,132,691 ",2019
+Boca Raton,FL          ,Florida,US Currency,"$1,176,241 ",2015
+Boca Raton,FL          ,Florida,US Currency,"$1,176,241 ",2016
+Boca Raton,FL          ,Florida,US Currency,"$2,600,685 ",2016
+Boca Raton,FL          ,Florida,US Currency,"$4,950,000 ",2016
+Boca Raton,FL          ,Florida,Real Property,"$1,000,000 ",2017
+Boca Raton,FL          ,Florida,Real Property,"$1,050,000 ",2017
+Boca Raton,FL          ,Florida,US Currency,"$3,219,798 ",2019
+Clearwater,FL          ,Florida,US Currency,"$1,173,867 ",2017
+Clearwater,FL          ,Florida,US Currency,"$1,173,867 ",2018
+Clearwater,FL          ,Florida,US Currency,"$1,173,867 ",2019
+Fort Myers,FL          ,Florida,US Currency,"$1,253,419 ",2015
+Fort Myers,FL          ,Florida,US Currency,"$1,253,419 ",2016
+Fort Myers,FL          ,Florida,US Currency,"$2,504,696 ",2018
+Fort Myers,FL          ,Florida,US Currency,"$2,504,696 ",2019
+Plantation,FL          ,Florida,US Currency,"$1,000,809 ",2015
+Plantation,FL          ,Florida,US Currency,"$2,200,999 ",2015
+Plantation,FL          ,Florida,US Currency,"$1,000,809 ",2016
+Plantation,FL          ,Florida,US Currency,"$2,200,999 ",2016
+Plantation,FL          ,Florida,US Currency,"$1,000,809 ",2017
+Plantation,FL          ,Florida,US Currency,"$2,200,999 ",2017
+Plantation,FL          ,Florida,US Currency,"$1,000,809 ",2018
+Plantation,FL          ,Florida,US Currency,"$2,200,999 ",2018
+Plantation,FL          ,Florida,US Currency,"$1,000,809 ",2019
+Plantation,FL          ,Florida,US Currency,"$2,200,999 ",2019
+Windermere,FL          ,Florida,Real Property,"$1,875,000 ",2019
+Hollywood,FL           ,Florida,US Currency,"$1,446,120 ",2016
+Hollywood,FL           ,Florida,US Currency,"$1,446,120 ",2017
+Lady Lake,FL           ,Florida,US Currency,"$1,101,950 ",2018
+Lake Mary,FL           ,Florida,Financial Instrument - Investment Account,"$5,169,489 ",2015
+Lakeland,FL            ,Florida,US Currency,"$1,449,201 ",2017
+Miami,FL            ,Florida,Real Property,"$1,226,500 ",2015
+Miami,FL            ,Florida,Vehicle,"$1,015,100 ",2015
+Jasper,FL             ,Florida,Real Property,"$1,000,000 ",2018
+Miami,FL             ,Florida,US Currency,"$9,221,491 ",2015
+Miramar,FL             ,Florida,US Currency,"$3,968,349 ",2016
+Miramar,FL             ,Florida,US Currency,"$3,968,349 ",2017
+Miramar,FL             ,Florida,US Currency,"$1,534,370 ",2019
+Orlando,FL             ,Florida,US Currency,"$2,698,748 ",2015
+Orlando,FL             ,Florida,US Currency,"$2,698,748 ",2016
+Orlando,FL             ,Florida,US Currency,"$2,698,748 ",2017
+Orlando,FL             ,Florida,US Currency,"$1,388,130 ",2018
+Orlando,FL             ,Florida,US Currency,"$2,698,748 ",2018
+Orlando,FL             ,Florida,US Currency,"$2,800,000 ",2018
+Orlando,FL             ,Florida,US Currency,"$1,457,001 ",2019
+Orlando,FL             ,Florida,US Currency,"$2,698,748 ",2019
+Orlando,FL             ,Florida,US Currency,"$2,800,000 ",2019
+Miami,FL              ,Florida,US Currency,"$1,961,050 ",2015
+Miami,FL              ,Florida,Real Property,"$2,439,600 ",2015
+Miami,FL              ,Florida,US Currency,"$1,631,056 ",2017
+Miami,FL              ,Florida,US Currency,"$4,000,000 ",2019
+Miami,FL              ,Florida,US Currency,"$4,000,000 ",2019
+Weston,FL              ,Florida,US Currency,"$3,225,594 ",2018
+Weston,FL              ,Florida,US Currency,"$3,313,758 ",2018
+Weston,FL              ,Florida,US Currency,"$1,304,018 ",2019
+Weston,FL              ,Florida,US Currency,"$2,890,000 ",2019
+Weston,FL              ,Florida,US Currency,"$2,942,501 ",2019
+Weston,FL              ,Florida,US Currency,"$3,138,845 ",2019
+Weston,FL              ,Florida,US Currency,"$3,225,594 ",2019
+Weston,FL              ,Florida,US Currency,"$3,313,758 ",2019
+Miami,FL               ,Florida,US Currency,"$1,147,408 ",2015
+Miami,FL               ,Florida,US Currency,"$1,229,948 ",2015
+Miami,FL               ,Florida,Real Property,"$3,427,900 ",2015
+Miami,FL               ,Florida,Vehicle,"$1,447,700 ",2015
+Miami,FL               ,Florida,US Currency,"$1,229,948 ",2016
+Miami,FL               ,Florida,US Currency,"$1,631,056 ",2016
+Miami,FL               ,Florida,US Currency,"$1,807,248 ",2016
+Miami,FL               ,Florida,US Currency,"$1,961,050 ",2016
+Miami,FL               ,Florida,US Currency,"$2,300,000 ",2016
+Miami,FL               ,Florida,US Currency,"$4,676,224 ",2016
+Miami,FL               ,Florida,Real Property,"$2,130,300 ",2016
+Miami,FL               ,Florida,US Currency,"$1,000,000 ",2017
+Miami,FL               ,Florida,US Currency,"$1,807,248 ",2017
+Miami,FL               ,Florida,US Currency,"$21,970,411 ",2017
+Miami,FL               ,Florida,Real Property,"$1,925,000 ",2017
+Miami,FL               ,Florida,Vessel,"$1,996,842 ",2017
+Miami,FL               ,Florida,US Currency,"$1,128,640 ",2018
+Miami,FL               ,Florida,US Currency,"$1,336,034 ",2018
+Miami,FL               ,Florida,US Currency,"$1,631,056 ",2018
+Miami,FL               ,Florida,US Currency,"$1,668,840 ",2018
+Miami,FL               ,Florida,Real Property,"$1,574,000 ",2018
+Miami,FL               ,Florida,US Currency,"$1,128,640 ",2019
+Miami,FL               ,Florida,US Currency,"$1,631,056 ",2019
+Miami,FL               ,Florida,US Currency,"$1,668,840 ",2019
+Miami,FL               ,Florida,US Currency,"$2,867,936 ",2019
+Miami,FL               ,Florida,US Currency,"$6,010,823 ",2019
+Miami,FL               ,Florida,US Currency,"$13,896,135 ",2019
+Miami,FL               ,Florida,Real Property,"$2,030,000 ",2019
+Tampa,FL               ,Florida,US Currency,"$1,900,000 ",2018
+Albany,GA ,Georgia,US Currency,"$1,692,152 ",2016
+Loganville,GA          ,Georgia,US Currency,"$1,429,557 ",2017
+Loganville,GA          ,Georgia,US Currency,"$1,429,557 ",2018
+Loganville,GA          ,Georgia,US Currency,"$1,429,557 ",2019
+Alpharetta,GA           ,Georgia,US Currency,"$1,810,490 ",2019
+Alphretta,GA           ,Georgia,US Currency,"$1,810,490 ",2018
+Atlanta,GA            ,Georgia,Financial Instrument - Financial Account,"$1,067,035 ",2015
+Norcross,GA            ,Georgia,US Currency,"$1,523,420 ",2016
+Roswell,GA            ,Georgia,US Currency,"$1,875,977 ",2019
+Atlanta,GA             ,Georgia,US Currency,"$1,256,970 ",2016
+Atlanta,GA             ,Georgia,US Currency,"$2,128,827 ",2016
+Atlanta,GA             ,Georgia,US Currency,"$1,256,970 ",2017
+Atlanta,GA             ,Georgia,US Currency,"$1,649,837 ",2018
+Atlanta,GA             ,Georgia,US Currency,"$1,649,837 ",2019
+Roswell,GA             ,Georgia,US Currency,"$1,875,977 ",2015
+Roswell,GA             ,Georgia,US Currency,"$1,875,977 ",2016
+Roswell,GA             ,Georgia,US Currency,"$1,875,977 ",2017
+Roswell,GA             ,Georgia,US Currency,"$1,875,977 ",2018
+Albany,GA              ,Georgia,US Currency,"$2,398,643 ",2017
+Albany,GA              ,Georgia,US Currency,"$3,054,884 ",2018
+Albany,GA              ,Georgia,US Currency,"$3,435,886 ",2019
+Saint Peter Port,Guernsey ,Georgia,US Currency,"$8,000,000 ",2016
+Wan Chai,HK,Hong Kong            ,US Currency,"$2,350,843 ",2017
+Wan Chai,HK       ,Hong Kong,US Currency,"$2,350,843 ",2016
+Wan Chai,HK           ,Hong Kong,US Currency,"$2,350,843 ",2015
+West Des Moines,IA     ,Iowa,US Currency,"$1,023,019 ",2015
+Des Moines,IA          ,Iowa,US Currency,"$1,004,936 ",2015
+Coeur d'Alene,ID      ,Idaho,"Silver Coins, Bars  and Scrap Metal","$2,835,507 ",2015
+Coeur d'Alene,ID       ,Idaho,"Silver Coins, Bars  and Scrap Metal","$2,835,507 ",2016
+Jerusalem,IL,Israel           ,US Currency,"$2,779,972 ",2015
+Jerusalem,IL,Israel           ,US Currency,"$2,779,972 ",2016
+Tel-Aviv,IL,Israel           ,US Currency,"$5,071,390 ",2016
+Tel-Aviv,IL,Israel            ,US Currency,"$5,071,390 ",2015
+North Riverside,IL     ,Illinois,US Currency,"$1,288,256 ",2018
+North Riverside,IL     ,Illinois,US Currency,"$1,288,256 ",2019
+Highland Park,IL       ,Illinois,US Currency,"$18,516,069 ",2015
+Highland Park,IL       ,Illinois,US Currency,"$18,516,069 ",2016
+Highland Park,IL       ,Illinois,US Currency,"$18,516,069 ",2017
+Highland Park,IL       ,Illinois,US Currency,"$18,516,069 ",2018
+Orland Park,IL         ,Illinois,US Currency,"$1,060,792 ",2019
+Chicago,IL          ,Illinois,US Currency,"$2,271,850 ",2018
+Chicago ,IL            ,Illinois,US Currency,"$11,492,058 ",2017
+Chicago,IL            ,Illinois,US Currency,"$2,653,806 ",2015
+Chicago,IL            ,Illinois,US Currency,"$2,315,116 ",2016
+Chicago,IL             ,Illinois,US Currency,"$1,183,520 ",2015
+Chicago,IL             ,Illinois,US Currency,"$1,601,896 ",2015
+Chicago,IL             ,Illinois,US Currency,"$1,606,484 ",2015
+Chicago,IL             ,Illinois,US Currency,"$1,807,377 ",2015
+Chicago,IL             ,Illinois,US Currency,"$3,570,364 ",2015
+Chicago,IL             ,Illinois,US Currency,"$6,226,425 ",2015
+Chicago,IL             ,Illinois,US Currency,"$11,492,058 ",2015
+Chicago,IL             ,Illinois,US Currency,"$1,124,890 ",2016
+Chicago,IL             ,Illinois,US Currency,"$2,271,850 ",2016
+Chicago,IL             ,Illinois,US Currency,"$2,682,470 ",2016
+Chicago,IL             ,Illinois,US Currency,"$11,492,058 ",2016
+Chicago,IL             ,Illinois,US Currency,"$1,023,741 ",2017
+Chicago,IL             ,Illinois,US Currency,"$1,124,890 ",2017
+Chicago,IL             ,Illinois,US Currency,"$2,271,850 ",2017
+Chicago,IL             ,Illinois,US Currency,"$2,315,116 ",2017
+Chicago,IL             ,Illinois,US Currency,"$2,682,470 ",2017
+Chicago,IL             ,Illinois,US Currency,"$1,023,741 ",2018
+Chicago,IL             ,Illinois,US Currency,"$1,073,241 ",2018
+Chicago,IL             ,Illinois,US Currency,"$1,124,890 ",2018
+Chicago,IL             ,Illinois,US Currency,"$1,503,251 ",2018
+Chicago,IL             ,Illinois,US Currency,"$2,315,116 ",2018
+Chicago,IL             ,Illinois,US Currency,"$2,682,470 ",2018
+Chicago,IL             ,Illinois,US Currency,"$4,016,146 ",2018
+Chicago,IL             ,Illinois,US Currency,"$11,492,058 ",2018
+Chicago,IL             ,Illinois,US Currency,"$1,107,819 ",2019
+Chicago,IL             ,Illinois,US Currency,"$1,503,251 ",2019
+Chicago,IL             ,Illinois,US Currency,"$2,429,648 ",2019
+Chicago,IL             ,Illinois,US Currency,"$4,016,146 ",2019
+Lisle,IL               ,Illinois,Assorted Gold and Silver,"$1,216,170 ",2015
+Lyons,IL               ,Illinois,US Currency,"$1,361,190 ",2018
+Niles,IL               ,Illinois,US Currency,"$1,131,385 ",2015
+Niles,IL               ,Illinois,US Currency,"$1,131,385 ",2016
+Niles,IL               ,Illinois,US Currency,"$1,131,385 ",2017
+Indianapolis,IN        ,Indiana,US Currency,"$1,600,322 ",2015
+Indianapolis,IN        ,Indiana,US Currency,"$1,600,322 ",2016
+Indianapolis,IN        ,Indiana,US Currency,"$1,600,322 ",2017
+Indianapolis,IN        ,Indiana,US Currency,"$2,816,805 ",2017
+Indianapolis,IN        ,Indiana,US Currency,"$1,004,519 ",2018
+Indianapolis,IN        ,Indiana,US Currency,"$1,600,322 ",2018
+Indianapolis,IN        ,Indiana,US Currency,"$2,816,805 ",2018
+Indianapolis,IN        ,Indiana,US Currency,"$1,004,519 ",2019
+Indianapolis,IN        ,Indiana,US Currency,"$2,816,805 ",2019
+Merrillville,IN        ,Indiana,US Currency,"$1,053,756 ",2016
+Merrillville,IN        ,Indiana,US Currency,"$1,053,756 ",2017
+Merrillville,IN        ,Indiana,US Currency,"$1,053,756 ",2018
+Merrillville,IN        ,Indiana,US Currency,"$1,053,756 ",2019
+Evansville,IN          ,Indiana,US Currency,"$1,698,969 ",2017
+New Albany,IN          ,Iowa,US Currency,"$4,752,721 ",2015
+Wichita,KS       ,Kansas,US Currency,"$1,095,000 ",2019
+Covington,KY         ,Kentucky,US Currency,"$1,470,875 ",2016
+Covington,KY           ,Kentucky,US Currency,"$1,470,875 ",2015
+Covington,KY           ,Kentucky,US Currency,"$1,470,875 ",2017
+Russell,KY           ,Kentucky,US Currency,"$1,428,306 ",2016
+Russell,KY             ,Kentucky,US Currency,"$1,428,306 ",2015
+Russell,KY             ,Kentucky,US Currency,"$1,428,306 ",2017
+Russell,KY             ,Kentucky,US Currency,"$1,428,306 ",2018
+Russell,KY             ,Kentucky,US Currency,"$1,428,306 ",2019
+New Orleans,LA         ,Louisiana,US Currency,"$1,057,880 ",2015
+New Orleans,LA         ,Louisiana,US Currency,"$1,057,880 ",2016
+Springfield,MA        ,Massachusetts,US Currency,"$1,493,269 ",2016
+New Bedford,MA         ,Massachusetts,Vessel,"$1,020,000 ",2018
+New Bedford,MA         ,Massachusetts,Vessel,"$2,040,000 ",2018
+Springfield,MA         ,Massachusetts,US Currency,"$1,493,269 ",2015
+Mattapan,MA            ,Massachusetts,US Currency,"$1,037,627 ",2015
+Bolton,MA              ,Massachusetts,US Currency,"$1,898,500 ",2015
+Bolton,MA              ,Massachusetts,US Currency,"$1,898,500 ",2016
+Bolton,MA              ,Massachusetts,US Currency,"$1,898,500 ",2017
+Bolton,MA              ,Massachusetts,US Currency,"$1,898,500 ",2018
+Bolton,MA              ,Massachusetts,US Currency,"$1,898,500 ",2019
+Boston,MA              ,Massachusetts,US Currency,"$4,273,683 ",2015
+Boston,MA              ,Massachusetts,US Currency,"$6,176,446 ",2017
+Boston,MA              ,Massachusetts,US Currency,"$3,500,000 ",2018
+Boston,MA              ,Massachusetts,US Currency,"$3,500,000 ",2019
+Boston,MA              ,Massachusetts,US Currency,"$5,148,328 ",2019
+Linthicum Heights,MD   ,Massachusetts,US Currency,"$2,418,765 ",2016
+Reisterstown,MD       ,Massachusetts,Financial Instrument - Cryptocurrency,"$6,716,074 ",2018
+Reisterstown,MD        ,Massachusetts,Financial Instrument - Cryptocurrency,"$1,497,851 ",2018
+Lutherville,MD         ,Massachusetts,US Currency,"$1,347,606 ",2016
+Lutherville,MD         ,Massachusetts,US Currency,"$1,347,606 ",2017
+Lutherville,MD         ,Massachusetts,US Currency,"$1,347,606 ",2018
+Baltimore,MD           ,Massachusetts,US Currency,"$1,052,899 ",2016
+Hereford,MD            ,Massachusetts,Miscellaneous Electronic Equipment,"$2,479,950 ",2018
+Sparks,MD              ,Massachusetts,US Currency,"$1,181,850 ",2018
+Towson,MD              ,Massachusetts,Vehicle,"$1,400,000 ",2018
+Detroit,MI,Michigan,US Currency,"$2,884,645 ",2019
+Bloomfield Hills,MI    ,Michigan,US Currency,"$1,442,232 ",2015
+Bloomfield Hills,MI    ,Michigan,US Currency,"$1,142,340 ",2019
+Farmington Hills,MI    ,Michigan,US Currency,"$2,000,000 ",2016
+Farmington Hills,MI    ,Michigan,US Currency,"$1,131,792 ",2017
+Farmington Hills,MI    ,Michigan,US Currency,"$1,131,792 ",2018
+Farmington Hills,MI    ,Michigan,US Currency,"$1,131,792 ",2019
+West Bloomfield,MI    ,Michigan,US Currency,"$1,120,622 ",2017
+West Bloomfield,MI    ,Michigan,US Currency,"$1,120,622 ",2018
+West Bloomfield,MI     ,Michigan,US Currency,"$1,120,622 ",2019
+Woodhaven,MI        ,Michigan,US Currency,"$1,667,499 ",2017
+Detroit,MI           ,Michigan,US Currency,"$6,944,402 ",2019
+Woodhaven,MI           ,Michigan,US Currency,"$1,667,499 ",2016
+Detroit,MI             ,Michigan,US Currency,"$3,049,304 ",2015
+Detroit,MI             ,Michigan,US Currency,"$3,650,413 ",2017
+Detroit,MI             ,Michigan,Financial Instrument - Financial Account,"$1,102,908 ",2017
+Detroit,MI             ,Michigan,US Currency,"$1,102,908 ",2018
+Detroit,MI             ,Michigan,US Currency,"$3,650,413 ",2018
+Detroit,MI             ,Michigan,US Currency,"$1,102,908 ",2019
+Detroit,MI             ,Michigan,US Currency,"$3,650,413 ",2019
+Lansing,MI             ,Michigan,US Currency,"$6,005,189 ",2015
+Livonia,MI             ,Michigan,US Currency,"$1,100,000 ",2016
+Livonia,MI             ,Michigan,US Currency,"$1,100,000 ",2017
+Livonia,MI             ,Michigan,US Currency,"$1,902,030 ",2018
+Livonia,MI             ,Michigan,US Currency,"$1,095,860 ",2019
+Livonia,MI             ,Michigan,US Currency,"$1,100,460 ",2019
+Livonia,MI             ,Michigan,US Currency,"$1,902,030 ",2019
+Livonia,MI             ,Michigan,US Currency,"$4,501,200 ",2019
+Paw Paw,MI             ,Michigan,US Currency,"$1,553,005 ",2016
+Romulus,MI             ,Michigan,US Currency,"$1,017,096 ",2018
+Romulus,MI             ,Michigan,US Currency,"$1,017,096 ",2019
+Maple Grove,MN        ,Minnesota,Real Property,"$1,000,000 ",2019
+Minneapolis,MN         ,Minnesota,US Currency,"$1,699,887 ",2015
+Minneapolis,MN         ,Minnesota,US Currency,"$1,822,129 ",2015
+Minneapolis,MN         ,Minnesota,US Currency,"$1,840,332 ",2015
+Minneapolis,MN         ,Minnesota,US Currency,"$1,840,332 ",2016
+Minneapolis,MN         ,Minnesota,US Currency,"$2,500,000 ",2018
+Eau Claire,MN          ,Minnesota,US Currency,"$1,000,000 ",2016
+Eau Claire,MN          ,Minnesota,US Currency,"$1,000,000 ",2016
+Winona,MN           ,Minnesota,US Currency,"$1,537,311 ",2015
+Winona,MN             ,Minnesota,US Currency,"$2,193,414 ",2017
+Winona,MN              ,Minnesota,US Currency,"$2,193,414 ",2015
+Winona,MN              ,Minnesota,US Currency,"$1,537,311 ",2016
+Winona,MN              ,Minnesota,US Currency,"$2,193,414 ",2016
+Winona,MN              ,Minnesota,US Currency,"$1,537,311 ",2017
+Winona,MN              ,Minnesota,US Currency,"$1,537,311 ",2018
+Winona,MN              ,Minnesota,US Currency,"$2,193,414 ",2018
+Winona,MN              ,Minnesota,US Currency,"$1,537,311 ",2019
+Winona,MN              ,Minnesota,US Currency,"$2,193,414 ",2019
+Saint Louis,MO,Missouri,US Currency,"$8,462,621 ",2016
+Saint Louis,MO,Missouri,US Currency,"$1,762,785 ",2017
+Saint Louis,MO,Missouri,US Currency,"$3,151,187 ",2019
+Saint Louis,MO,Missouri,US Currency,"$8,462,621 ",2019
+Maryland Heights,MO    ,Missouri,Financial Instrument - Financial Account,"$1,079,234 ",2016
+Maryland Heights,MO    ,Missouri,Financial Instrument - Financial Account,"$1,315,150 ",2016
+Maryland Heights,MO    ,Missouri,Financial Instrument - Financial Account,"$1,079,234 ",2017
+Maryland Heights,MO    ,Missouri,Financial Instrument - Financial Account,"$1,315,150 ",2017
+Maryland Heights,MO    ,Missouri,US Currency,"$1,352,796 ",2018
+Maryland Heights,MO    ,Missouri,Financial Instrument - Financial Account,"$1,315,150 ",2018
+Maryland Heights,MO    ,Missouri,Financial Instrument - Financial Account,"$1,315,150 ",2019
+Kansas City,MO         ,Missouri,Miscellaneous Jewelry,"$2,516,857 ",2017
+Kansas City,MO         ,Missouri,US Currency,"$1,639,583 ",2019
+Saint Louis,MO           ,Missouri,US Currency,"$8,462,621 ",2015
+Saint Louis,MO           ,Missouri,US Currency,"$8,462,621 ",2017
+Saint Louis,MO           ,Missouri,US Currency,"$8,462,621 ",2018
+Rolla,MO               ,Missouri,US Currency,"$1,304,840 ",2018
+Hattiesburg,MS     ,Mississippi,US Currency,"$1,233,232 ",2017
+Hattiesburg,MS        ,Mississippi,US Currency,"$1,621,556 ",2017
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,001,418 ",2016
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,032,088 ",2016
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,233,232 ",2016
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,372,218 ",2016
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,621,556 ",2016
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,905,238 ",2016
+Hattiesburg,MS         ,Mississippi,US Currency,"$2,122,737 ",2016
+Hattiesburg,MS         ,Mississippi,US Currency,"$2,953,436 ",2016
+Hattiesburg,MS         ,Mississippi,US Currency,"$4,794,772 ",2016
+Hattiesburg,MS         ,Mississippi,US Currency,"$5,404,498 ",2016
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,001,418 ",2017
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,372,218 ",2017
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,905,238 ",2017
+Hattiesburg,MS         ,Mississippi,US Currency,"$2,122,737 ",2017
+Hattiesburg,MS         ,Mississippi,US Currency,"$2,953,436 ",2017
+Hattiesburg,MS         ,Mississippi,US Currency,"$4,794,772 ",2017
+Hattiesburg,MS         ,Mississippi,US Currency,"$5,404,498 ",2017
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,001,418 ",2018
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,233,232 ",2018
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,372,218 ",2018
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,621,556 ",2018
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,905,238 ",2018
+Hattiesburg,MS         ,Mississippi,US Currency,"$2,122,737 ",2018
+Hattiesburg,MS         ,Mississippi,US Currency,"$2,953,436 ",2018
+Hattiesburg,MS         ,Mississippi,US Currency,"$4,794,772 ",2018
+Hattiesburg,MS         ,Mississippi,US Currency,"$5,404,498 ",2018
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,001,418 ",2019
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,233,232 ",2019
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,372,218 ",2019
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,621,556 ",2019
+Hattiesburg,MS         ,Mississippi,US Currency,"$1,905,238 ",2019
+Hattiesburg,MS         ,Mississippi,US Currency,"$2,122,737 ",2019
+Hattiesburg,MS         ,Mississippi,US Currency,"$2,953,436 ",2019
+Hattiesburg,MS         ,Mississippi,US Currency,"$4,794,772 ",2019
+Hattiesburg,MS         ,Mississippi,US Currency,"$5,404,498 ",2019
+Ridgeland,MS           ,Mississippi,US Currency,"$3,000,000 ",2019
+Flowood,MS             ,Mississippi,US Currency,"$1,567,980 ",2016
+Flowood,MS             ,Mississippi,US Currency,"$1,567,980 ",2017
+Flowood,MS             ,Mississippi,US Currency,"$1,567,980 ",2018
+Flowood,MS             ,Mississippi,US Currency,"$1,567,980 ",2019
+Jackson,MS             ,Mississippi,US Currency,"$3,000,000 ",2019
+Moselle,MS             ,Mississippi,Aircraft,"$4,762,000 ",2016
+Natchez,MS             ,Mississippi,US Currency,"$1,142,413 ",2018
+Natchez,MS             ,Mississippi,US Currency,"$1,142,413 ",2019
+Tupelo,MS              ,Mississippi,US Currency,"$1,464,115 ",2019
+Tupelo,MS              ,Mississippi,US Currency,"$6,629,102 ",2019
+Asheville,NC,North Carolina,US Currency,"$8,000,000 ",2017
+Greensboro,NC          ,North Carolina,Financial Instrument - Insurance Account,"$1,631,207 ",2016
+Greensboro,NC          ,North Carolina,Financial Instrument - Insurance Account,"$1,631,207 ",2017
+Greensboro,NC          ,North Carolina,Financial Instrument - Insurance Account,"$1,631,207 ",2018
+Greensboro,NC          ,North Carolina,Financial Instrument - Insurance Account,"$1,631,207 ",2019
+Charlotte,NC           ,North Carolina,US Currency,"$1,341,125 ",2015
+Charlotte,NC           ,North Carolina,US Currency,"$1,682,870 ",2015
+Charlotte,NC           ,North Carolina,US Currency,"$1,342,125 ",2016
+Charlotte,NC           ,North Carolina,US Currency,"$1,682,870 ",2016
+Charlotte,NC           ,North Carolina,US Currency,"$1,916,793 ",2016
+Charlotte,NC           ,North Carolina,US Currency,"$1,342,125 ",2017
+Charlotte,NC           ,North Carolina,US Currency,"$1,682,870 ",2017
+Charlotte,NC           ,North Carolina,US Currency,"$1,916,793 ",2017
+Charlotte,NC           ,North Carolina,US Currency,"$1,342,125 ",2018
+Charlotte,NC           ,North Carolina,US Currency,"$1,682,870 ",2018
+Charlotte,NC           ,North Carolina,US Currency,"$1,916,793 ",2018
+Charlotte,NC           ,North Carolina,US Currency,"$1,342,125 ",2019
+Charlotte,NC           ,North Carolina,US Currency,"$1,682,870 ",2019
+Charlotte,NC           ,North Carolina,US Currency,"$1,916,793 ",2019
+Four Oaks,NC           ,North Carolina,US Currency,"$6,062,116 ",2015
+Four Oaks,NC           ,North Carolina,US Currency,"$6,062,116 ",2016
+Lumberton,NC           ,North Carolina,US Currency,"$2,214,461 ",2019
+Pineville,NC           ,North Carolina,US Currency,"$8,688,630 ",2017
+Pineville,NC           ,North Carolina,US Currency,"$8,688,630 ",2018
+Pineville,NC           ,North Carolina,US Currency,"$8,688,630 ",2019
+Linville,NC            ,North Carolina,US Currency,"$1,277,679 ",2019
+Raeford,NC            ,North Carolina,US Currency,"$1,172,898 ",2016
+Halifax,NC             ,North Carolina,US Currency,"$2,055,141 ",2019
+Raleigh,NC             ,North Carolina,US Currency,"$1,225,778 ",2019
+Raleigh,NC             ,North Carolina,US Currency,"$1,441,630 ",2019
+Raleigh,NC             ,North Carolina,US Currency,"$2,520,045 ",2019
+Omaha,NE            ,Nebraska,US Currency,"$1,513,409 ",2015
+Lincoln,NE             ,Nebraska,US Currency,"$1,066,561 ",2015
+Omaha,NE              ,Nebraska,US Currency,"$1,035,305 ",2015
+Omaha,NE              ,Nebraska,US Currency,"$2,780,018 ",2016
+Omaha,NE               ,Nebraska,US Currency,"$3,486,025 ",2015
+Omaha,NE               ,Nebraska,US Currency,"$1,286,486 ",2016
+Omaha,NE               ,Nebraska,US Currency,"$1,513,409 ",2016
+Omaha,NE               ,Nebraska,US Currency,"$1,286,486 ",2017
+Omaha,NE               ,Nebraska,US Currency,"$1,513,409 ",2017
+Omaha,NE               ,Nebraska,US Currency,"$2,780,018 ",2017
+Omaha,NE               ,Nebraska,US Currency,"$1,286,486 ",2018
+Omaha,NE               ,Nebraska,US Currency,"$2,780,018 ",2018
+Omaha,NE               ,Nebraska,US Currency,"$1,441,813 ",2019
+Omaha,NE               ,Nebraska,US Currency,"$2,780,018 ",2019
+Omaha,NE               ,Nebraska,US Currency,"$9,007,369 ",2019
+Mountain Lakes,NJ ,New Jersey,Real Property,"$1,570,000 ",2015
+Bridgewater,NJ      ,New Jersey,US Currency,"$1,518,054 ",2015
+Cherry Hill,NJ        ,New Jersey,US Currency,"$2,123,033 ",2018
+Jersey City,NJ        ,New Jersey,Jewelry Inventory,"$2,084,500 ",2015
+Jersey City,NJ        ,New Jersey,US Currency,"$1,626,707 ",2019
+Bound Brook,NJ         ,New Jersey,US Currency,"$2,063,756 ",2015
+Cherry Hill,NJ         ,New Jersey,US Currency,"$2,123,033 ",2017
+Cherry Hill,NJ         ,New Jersey,US Currency,"$2,123,033 ",2019
+Jersey City,NJ         ,New Jersey,Financial Instrument - Financial Account,"$1,205,592 ",2017
+Jersey City,NJ         ,New Jersey,US Currency,"$1,000,000 ",2018
+Jersey City,NJ         ,New Jersey,US Currency,"$2,230,266 ",2018
+Jersey City,NJ         ,New Jersey,US Currency,"$3,072,267 ",2018
+Jersey City,NJ         ,New Jersey,US Currency,"$5,794,339 ",2018
+Jersey City,NJ         ,New Jersey,Financial Instrument - Securities Account,"$1,205,592 ",2018
+Jersey City,NJ         ,New Jersey,US Currency,"$1,000,000 ",2019
+Jersey City,NJ         ,New Jersey,US Currency,"$2,230,266 ",2019
+Jersey City,NJ         ,New Jersey,US Currency,"$3,072,267 ",2019
+Jersey City,NJ         ,New Jersey,US Currency,"$5,794,339 ",2019
+Mantoloking,NJ         ,New Jersey,US Currency,"$1,265,711 ",2015
+Mantoloking,NJ         ,New Jersey,US Currency,"$1,265,711 ",2016
+Mantoloking,NJ         ,New Jersey,US Currency,"$1,265,711 ",2017
+Jersey City,NJ          ,New Jersey,US Currency,"$1,059,122 ",2019
+New Jersey,NJ          ,New Jersey,US Currency,"$1,059,122 ",2018
+Secaucus,NJ           ,New Jersey,US Currency,"$1,368,140 ",2016
+Weehawken,NJ           ,New Jersey,US Currency,"$1,364,269 ",2015
+Weehawken,NJ           ,New Jersey,US Currency,"$1,364,269 ",2016
+Weehawken,NJ           ,New Jersey,US Currency,"$1,364,269 ",2017
+Carteret,NJ            ,New Jersey,US Currency,"$1,291,653 ",2015
+Carteret,NJ            ,New Jersey,US Currency,"$1,291,653 ",2016
+Carteret,NJ            ,New Jersey,US Currency,"$1,291,653 ",2017
+Red Bank,NJ            ,New Jersey,US Currency,"$2,380,091 ",2015
+Red Bank,NJ            ,New Jersey,US Currency,"$2,380,091 ",2016
+Red Bank,NJ            ,New Jersey,US Currency,"$2,380,091 ",2017
+Red Bank,NJ            ,New Jersey,US Currency,"$2,380,091 ",2018
+Secaucus,NJ            ,New Jersey,US Currency,"$1,368,140 ",2015
+Secaucus,NJ            ,New Jersey,US Currency,"$1,368,140 ",2017
+Secaucus,NJ            ,New Jersey,US Currency,"$1,368,140 ",2018
+Secaucus,NJ            ,New Jersey,US Currency,"$1,101,093 ",2019
+Secaucus,NJ            ,New Jersey,US Currency,"$1,368,140 ",2019
+Laurel,NJ              ,New Jersey,US Currency,"$23,002,310 ",2019
+Newark,NJ              ,New Jersey,US Currency,"$1,409,595 ",2015
+Newark,NJ              ,New Jersey,US Currency,"$3,415,000 ",2017
+Newark,NJ              ,New Jersey,US Currency,"$4,990,871 ",2018
+Newark,NJ              ,New Jersey,US Currency,"$1,514,748 ",2019
+Newark,NJ              ,New Jersey,US Currency,"$2,514,654 ",2019
+Newark,NJ              ,New Jersey,US Currency,"$4,990,871 ",2019
+Newark,NJ              ,New Jersey,Financial Instrument - Financial Account,"$6,531,373 ",2019
+Albuquerque,NM         ,New Mexico,US Currency,"$10,128,847 ",2018
+Reno,NV,Nevada,Real Property,"$1,340,000 ",2019
+Las Vegas,NV           ,Nevada,US Currency,"$1,999,875 ",2018
+Las Vegas,NV           ,Nevada,US Currency,"$1,999,875 ",2019
+Mount Sinai,NY,New York,US Currency,"$1,115,516 ",2019
+New York,NY,New York,US Currency,"$3,095,010 ",2015
+Long Island City,NY    ,New York,US Currency,"$1,133,950 ",2015
+Long Island City,NY    ,New York,US Currency,"$2,960,933 ",2015
+Long Island City,NY    ,New York,US Currency,"$1,133,950 ",2016
+Long Island City,NY    ,New York,US Currency,"$2,960,933 ",2016
+Long Island City,NY    ,New York,US Currency,"$1,133,950 ",2017
+Long Island City,NY    ,New York,US Currency,"$2,960,933 ",2017
+Long Island City,NY    ,New York,US Currency,"$1,133,950 ",2018
+Long Island City,NY    ,New York,US Currency,"$1,133,950 ",2019
+Central Islip,NY       ,New York,US Currency,"$2,500,000 ",2015
+Central Islip,NY       ,New York,US Currency,"$2,500,000 ",2016
+Central Islip,NY       ,New York,US Currency,"$2,500,000 ",2017
+East Elmhurst,NY       ,New York,US Currency,"$2,329,558 ",2015
+East Elmhurst,NY       ,New York,US Currency,"$2,387,058 ",2016
+East Elmhurst,NY       ,New York,US Currency,"$2,454,558 ",2017
+New York City,NY       ,New York,US Currency,"$1,983,968 ",2015
+New York City,NY       ,New York,Financial Instrument - Financial Account,"$1,499,056 ",2015
+New York City,NY       ,New York,US Currency,"$1,983,968 ",2016
+New York City,NY       ,New York,Financial Instrument - Financial Account,"$1,499,056 ",2016
+New York City,NY       ,New York,US Currency,"$1,983,968 ",2017
+New York City,NY       ,New York,Financial Instrument - Financial Account,"$1,499,056 ",2017
+New York City,NY       ,New York,US Currency,"$1,983,968 ",2018
+Brooklyn,NY        ,New York,US Currency,"$1,074,616 ",2016
+White Plains,NY        ,New York,US Currency,"$1,047,263 ",2015
+White Plains,NY        ,New York,US Currency,"$2,100,000 ",2015
+White Plains,NY        ,New York,US Currency,"$1,047,263 ",2016
+White Plains,NY        ,New York,US Currency,"$1,208,938 ",2016
+White Plains,NY        ,New York,US Currency,"$1,047,263 ",2017
+White Plains,NY        ,New York,US Currency,"$1,208,938 ",2017
+White Plains,NY        ,New York,US Currency,"$1,047,263 ",2018
+White Plains,NY        ,New York,US Currency,"$1,208,938 ",2018
+White Plains,NY        ,New York,US Currency,"$1,047,263 ",2019
+White Plains,NY        ,New York,US Currency,"$1,208,938 ",2019
+Farmingdale,NY         ,New York,US Currency,"$1,312,757 ",2019
+Farmingdale,NY         ,New York,US Currency,"$4,068,507 ",2019
+Farmingdale,NY         ,New York,US Currency,"$4,282,800 ",2019
+Floral Park,NY         ,New York,US Currency,"$1,998,244 ",2015
+Floral Park,NY         ,New York,US Currency,"$1,998,244 ",2016
+Floral Park,NY         ,New York,US Currency,"$1,998,244 ",2017
+Floral Park,NY         ,New York,US Currency,"$1,998,244 ",2018
+New York,NY         ,New York,US Currency,"$1,478,798 ",2016
+New York,NY         ,New York,Financial Instrument - Financial Account,"$4,481,452 ",2016
+Covington,NY          ,New York,US Currency,"$1,802,128 ",2019
+Great Neck,NY          ,New York,US Currency,"$1,272,690 ",2015
+Great Neck,NY          ,New York,US Currency,"$1,753,309 ",2015
+Great Neck,NY          ,New York,US Currency,"$2,043,207 ",2015
+Great Neck,NY          ,New York,US Currency,"$1,307,791 ",2016
+Great Neck,NY          ,New York,US Currency,"$1,753,309 ",2016
+Great Neck,NY          ,New York,US Currency,"$2,222,329 ",2016
+Great Neck,NY          ,New York,US Currency,"$1,738,315 ",2017
+Great Neck,NY          ,New York,US Currency,"$1,753,309 ",2017
+Great Neck,NY          ,New York,US Currency,"$2,702,729 ",2017
+Great Neck,NY          ,New York,US Currency,"$1,753,309 ",2018
+New York,NY          ,New York,US Currency,"$6,087,669 ",2018
+Water Mill,NY          ,New York,Real Property,"$6,000,000 ",2019
+Calverton,NY           ,New York,US Currency,"$1,558,807 ",2015
+Calverton,NY           ,New York,US Currency,"$1,558,807 ",2015
+Calverton,NY           ,New York,US Currency,"$1,558,807 ",2016
+Calverton,NY           ,New York,US Currency,"$1,558,807 ",2016
+Covington,NY           ,New York,Financial Instrument - Financial Account,"$1,727,817 ",2015
+Covington,NY           ,New York,US Currency,"$1,802,128 ",2016
+Covington,NY           ,New York,US Currency,"$1,802,128 ",2017
+Covington,NY           ,New York,US Currency,"$1,802,128 ",2018
+Glen Head,NY           ,New York,US Currency,"$1,038,266 ",2015
+Glen Head,NY           ,New York,US Currency,"$1,038,266 ",2016
+Glen Head,NY           ,New York,US Currency,"$1,038,266 ",2017
+Mattituck,NY           ,New York,US Currency,"$1,058,594 ",2015
+Mattituck,NY           ,New York,US Currency,"$1,058,594 ",2016
+Mattituck,NY           ,New York,US Currency,"$1,058,594 ",2017
+New York,NY           ,New York,US Currency,"$1,551,936 ",2015
+New York,NY           ,New York,US Currency,"$2,226,521 ",2015
+New York,NY           ,New York,US Currency,"$12,100,000 ",2015
+New York,NY           ,New York,US Currency,"$900,000,000 ",2015
+New York,NY           ,New York,Miscellaneous Jewelry and Precious Items,"$2,236,728 ",2015
+New York,NY           ,New York,US Currency,"$1,201,107 ",2016
+New York,NY           ,New York,US Currency,"$1,551,936 ",2016
+New York,NY           ,New York,US Currency,"$1,500,000 ",2017
+New York,NY           ,New York,US Currency,"$1,879,992 ",2017
+New York,NY           ,New York,US Currency,"$1,236,714 ",2019
+New York,NY           ,New York,US Currency,"$3,850,626 ",2019
+Brooklyn,NY            ,New York,US Currency,"$1,177,844 ",2015
+Brooklyn,NY            ,New York,US Currency,"$1,958,093 ",2015
+Brooklyn,NY            ,New York,US Currency,"$1,177,844 ",2016
+Brooklyn,NY            ,New York,US Currency,"$1,464,650 ",2016
+Brooklyn,NY            ,New York,US Currency,"$1,958,093 ",2016
+Brooklyn,NY            ,New York,US Currency,"$1,074,616 ",2017
+Brooklyn,NY            ,New York,US Currency,"$1,177,844 ",2017
+Brooklyn,NY            ,New York,US Currency,"$1,350,317 ",2017
+Brooklyn,NY            ,New York,US Currency,"$1,464,650 ",2017
+Brooklyn,NY            ,New York,US Currency,"$1,958,093 ",2017
+Brooklyn,NY            ,New York,US Currency,"$13,850,000 ",2017
+Brooklyn,NY            ,New York,US Currency,"$1,074,616 ",2018
+Brooklyn,NY            ,New York,US Currency,"$1,130,943 ",2018
+Brooklyn,NY            ,New York,US Currency,"$1,177,844 ",2018
+Brooklyn,NY            ,New York,US Currency,"$1,466,650 ",2018
+Brooklyn,NY            ,New York,US Currency,"$2,673,279 ",2018
+Brooklyn,NY            ,New York,US Currency,"$2,720,572 ",2018
+Brooklyn,NY            ,New York,US Currency,"$2,754,873 ",2018
+Brooklyn,NY            ,New York,US Currency,"$20,135,482 ",2018
+Brooklyn,NY            ,New York,US Currency,"$1,074,616 ",2019
+Brooklyn,NY            ,New York,US Currency,"$1,177,844 ",2019
+Brooklyn,NY            ,New York,US Currency,"$1,466,650 ",2019
+Brooklyn,NY            ,New York,US Currency,"$1,930,698 ",2019
+Brooklyn,NY            ,New York,US Currency,"$2,673,279 ",2019
+Brooklyn,NY            ,New York,US Currency,"$2,720,572 ",2019
+Brooklyn,NY            ,New York,US Currency,"$2,754,873 ",2019
+Brooklyn,NY            ,New York,US Currency,"$6,000,000 ",2019
+Brooklyn,NY            ,New York,US Currency,"$8,642,407 ",2019
+Brooklyn,NY            ,New York,US Currency,"$8,692,483 ",2019
+Brooklyn,NY            ,New York,US Currency,"$21,555,528 ",2019
+Brooklyn,NY            ,New York,Real Property,"$5,000,000 ",2019
+Columbus,NY            ,New York,US Currency,"$1,037,727 ",2019
+Holbrook,NY            ,New York,Financial Instrument - Financial Account,"$1,600,558 ",2019
+New York,NY            ,New York,US Currency,"$1,003,234 ",2015
+New York,NY            ,New York,US Currency,"$1,031,182 ",2015
+New York,NY            ,New York,US Currency,"$1,035,415 ",2015
+New York,NY            ,New York,US Currency,"$1,057,797 ",2015
+New York,NY            ,New York,US Currency,"$1,120,561 ",2015
+New York,NY            ,New York,US Currency,"$1,172,523 ",2015
+New York,NY            ,New York,US Currency,"$1,201,107 ",2015
+New York,NY            ,New York,US Currency,"$1,344,375 ",2015
+New York,NY            ,New York,US Currency,"$1,464,275 ",2015
+New York,NY            ,New York,US Currency,"$1,478,798 ",2015
+New York,NY            ,New York,US Currency,"$1,879,992 ",2015
+New York,NY            ,New York,US Currency,"$1,979,645 ",2015
+New York,NY            ,New York,US Currency,"$2,057,620 ",2015
+New York,NY            ,New York,US Currency,"$2,818,035 ",2015
+New York,NY            ,New York,US Currency,"$3,029,712 ",2015
+New York,NY            ,New York,US Currency,"$3,055,108 ",2015
+New York,NY            ,New York,US Currency,"$3,320,043 ",2015
+New York,NY            ,New York,US Currency,"$3,611,748 ",2015
+New York,NY            ,New York,US Currency,"$3,635,363 ",2015
+New York,NY            ,New York,US Currency,"$3,850,626 ",2015
+New York,NY            ,New York,US Currency,"$4,051,529 ",2015
+New York,NY            ,New York,US Currency,"$4,269,172 ",2015
+New York,NY            ,New York,US Currency,"$4,322,368 ",2015
+New York,NY            ,New York,US Currency,"$4,455,274 ",2015
+New York,NY            ,New York,US Currency,"$5,000,000 ",2015
+New York,NY            ,New York,US Currency,"$7,034,776 ",2015
+New York,NY            ,New York,US Currency,"$8,168,169 ",2015
+New York,NY            ,New York,US Currency,"$9,114,342 ",2015
+New York,NY            ,New York,US Currency,"$11,348,323 ",2015
+New York,NY            ,New York,US Currency,"$15,130,889 ",2015
+New York,NY            ,New York,US Currency,"$16,341,959 ",2015
+New York,NY            ,New York,US Currency,"$19,929,983 ",2015
+New York,NY            ,New York,US Currency,"$33,000,000 ",2015
+New York,NY            ,New York,Financial Instrument - Stock Certificates,"$4,543,515 ",2015
+New York,NY            ,New York,Financial Instrument - Financial Account,"$17,414,239 ",2015
+New York,NY            ,New York,Real Property,"$9,250,000 ",2015
+New York,NY            ,New York,US Currency,"$1,002,839 ",2016
+New York,NY            ,New York,US Currency,"$1,003,234 ",2016
+New York,NY            ,New York,US Currency,"$1,031,182 ",2016
+New York,NY            ,New York,US Currency,"$1,035,415 ",2016
+New York,NY            ,New York,US Currency,"$1,057,797 ",2016
+New York,NY            ,New York,US Currency,"$1,120,561 ",2016
+New York,NY            ,New York,US Currency,"$1,172,523 ",2016
+New York,NY            ,New York,US Currency,"$1,464,275 ",2016
+New York,NY            ,New York,US Currency,"$1,500,000 ",2016
+New York,NY            ,New York,US Currency,"$1,879,992 ",2016
+New York,NY            ,New York,US Currency,"$1,900,000 ",2016
+New York,NY            ,New York,US Currency,"$1,979,645 ",2016
+New York,NY            ,New York,US Currency,"$2,019,937 ",2016
+New York,NY            ,New York,US Currency,"$2,057,620 ",2016
+New York,NY            ,New York,US Currency,"$2,226,521 ",2016
+New York,NY            ,New York,US Currency,"$2,818,035 ",2016
+New York,NY            ,New York,US Currency,"$3,029,712 ",2016
+New York,NY            ,New York,US Currency,"$3,055,108 ",2016
+New York,NY            ,New York,US Currency,"$3,320,043 ",2016
+New York,NY            ,New York,US Currency,"$3,850,626 ",2016
+New York,NY            ,New York,US Currency,"$4,051,529 ",2016
+New York,NY            ,New York,US Currency,"$4,269,172 ",2016
+New York,NY            ,New York,US Currency,"$4,455,274 ",2016
+New York,NY            ,New York,US Currency,"$5,000,000 ",2016
+New York,NY            ,New York,US Currency,"$6,087,669 ",2016
+New York,NY            ,New York,US Currency,"$8,168,169 ",2016
+New York,NY            ,New York,US Currency,"$9,114,342 ",2016
+New York,NY            ,New York,US Currency,"$15,130,889 ",2016
+New York,NY            ,New York,US Currency,"$16,341,959 ",2016
+New York,NY            ,New York,US Currency,"$22,300,432 ",2016
+New York,NY            ,New York,Financial Instrument - Financial Account,"$1,488,337 ",2016
+New York,NY            ,New York,Financial Instrument - Financial Account,"$4,322,237 ",2016
+New York,NY            ,New York,Financial Instrument - Financial Account,"$17,414,239 ",2016
+New York,NY            ,New York,US Currency,"$1,002,839 ",2017
+New York,NY            ,New York,US Currency,"$1,003,234 ",2017
+New York,NY            ,New York,US Currency,"$1,031,182 ",2017
+New York,NY            ,New York,US Currency,"$1,042,723 ",2017
+New York,NY            ,New York,US Currency,"$1,120,561 ",2017
+New York,NY            ,New York,US Currency,"$1,172,523 ",2017
+New York,NY            ,New York,US Currency,"$1,201,107 ",2017
+New York,NY            ,New York,US Currency,"$1,214,083 ",2017
+New York,NY            ,New York,US Currency,"$1,478,798 ",2017
+New York,NY            ,New York,US Currency,"$1,551,936 ",2017
+New York,NY            ,New York,US Currency,"$1,619,770 ",2017
+New York,NY            ,New York,US Currency,"$1,900,000 ",2017
+New York,NY            ,New York,US Currency,"$2,019,937 ",2017
+New York,NY            ,New York,US Currency,"$2,226,521 ",2017
+New York,NY            ,New York,US Currency,"$2,818,035 ",2017
+New York,NY            ,New York,US Currency,"$3,850,626 ",2017
+New York,NY            ,New York,US Currency,"$4,269,172 ",2017
+New York,NY            ,New York,US Currency,"$4,455,274 ",2017
+New York,NY            ,New York,US Currency,"$5,000,000 ",2017
+New York,NY            ,New York,US Currency,"$6,000,000 ",2017
+New York,NY            ,New York,US Currency,"$6,087,669 ",2017
+New York,NY            ,New York,US Currency,"$34,780,286 ",2017
+New York,NY            ,New York,Financial Instrument - Financial Account,"$1,488,337 ",2017
+New York,NY            ,New York,Financial Instrument - Financial Account,"$3,749,170 ",2017
+New York,NY            ,New York,Financial Instrument - Financial Account,"$5,350,487 ",2017
+New York,NY            ,New York,Financial Instrument - Financial Account,"$17,414,239 ",2017
+New York,NY            ,New York,Miscellaneous Artwork,"$11,441,720 ",2018
+New York,NY            ,New York,US Currency,"$1,002,839 ",2018
+New York,NY            ,New York,US Currency,"$1,031,182 ",2018
+New York,NY            ,New York,US Currency,"$1,172,523 ",2018
+New York,NY            ,New York,US Currency,"$1,201,107 ",2018
+New York,NY            ,New York,US Currency,"$1,227,958 ",2018
+New York,NY            ,New York,US Currency,"$1,478,798 ",2018
+New York,NY            ,New York,US Currency,"$1,617,331 ",2018
+New York,NY            ,New York,US Currency,"$1,619,772 ",2018
+New York,NY            ,New York,US Currency,"$2,019,937 ",2018
+New York,NY            ,New York,US Currency,"$2,187,972 ",2018
+New York,NY            ,New York,US Currency,"$2,226,521 ",2018
+New York,NY            ,New York,US Currency,"$2,481,929 ",2018
+New York,NY            ,New York,US Currency,"$3,816,686 ",2018
+New York,NY            ,New York,US Currency,"$3,850,626 ",2018
+New York,NY            ,New York,US Currency,"$4,269,172 ",2018
+New York,NY            ,New York,US Currency,"$4,455,274 ",2018
+New York,NY            ,New York,US Currency,"$5,000,000 ",2018
+New York,NY            ,New York,US Currency,"$5,407,253 ",2018
+New York,NY            ,New York,US Currency,"$9,875,168 ",2018
+New York,NY            ,New York,US Currency,"$28,757,052 ",2018
+New York,NY            ,New York,US Currency,"$37,564,565 ",2018
+New York,NY            ,New York,US Currency,"$41,798,555 ",2018
+New York,NY            ,New York,Financial Instrument - Electronic Payment Account,"$1,488,337 ",2018
+New York,NY            ,New York,Financial Instrument - Cryptocurrency,"$2,242,438 ",2018
+New York,NY            ,New York,Financial Instrument - Financial Account,"$3,713,121 ",2018
+New York,NY            ,New York,Financial Instrument - Financial Account,"$5,350,487 ",2018
+New York,NY            ,New York,Financial Instrument - Financial Account,"$17,414,239 ",2018
+New York,NY            ,New York,Financial Instrument - Cryptocurrency Platform,"$44,680,998 ",2018
+New York,NY            ,New York,Real Property,"$1,042,688 ",2018
+New York,NY            ,New York,Miscellaneous Artwork,"$11,441,720 ",2019
+New York,NY            ,New York,US Currency,"$1,002,839 ",2019
+New York,NY            ,New York,US Currency,"$1,031,182 ",2019
+New York,NY            ,New York,US Currency,"$1,039,914 ",2019
+New York,NY            ,New York,US Currency,"$1,172,523 ",2019
+New York,NY            ,New York,US Currency,"$1,201,107 ",2019
+New York,NY            ,New York,US Currency,"$1,227,958 ",2019
+New York,NY            ,New York,US Currency,"$1,463,218 ",2019
+New York,NY            ,New York,US Currency,"$1,478,798 ",2019
+New York,NY            ,New York,US Currency,"$1,551,224 ",2019
+New York,NY            ,New York,US Currency,"$1,617,331 ",2019
+New York,NY            ,New York,US Currency,"$1,619,772 ",2019
+New York,NY            ,New York,US Currency,"$2,019,937 ",2019
+New York,NY            ,New York,US Currency,"$2,187,972 ",2019
+New York,NY            ,New York,US Currency,"$2,226,521 ",2019
+New York,NY            ,New York,US Currency,"$2,481,929 ",2019
+New York,NY            ,New York,US Currency,"$3,713,121 ",2019
+New York,NY            ,New York,US Currency,"$3,816,686 ",2019
+New York,NY            ,New York,US Currency,"$4,269,172 ",2019
+New York,NY            ,New York,US Currency,"$4,455,274 ",2019
+New York,NY            ,New York,US Currency,"$4,698,419 ",2019
+New York,NY            ,New York,US Currency,"$5,653,300 ",2019
+New York,NY            ,New York,US Currency,"$6,087,669 ",2019
+New York,NY            ,New York,US Currency,"$7,712,807 ",2019
+New York,NY            ,New York,US Currency,"$9,875,168 ",2019
+New York,NY            ,New York,US Currency,"$10,611,061 ",2019
+New York,NY            ,New York,US Currency,"$12,350,565 ",2019
+New York,NY            ,New York,US Currency,"$16,056,849 ",2019
+New York,NY            ,New York,US Currency,"$28,757,052 ",2019
+New York,NY            ,New York,US Currency,"$37,564,565 ",2019
+New York,NY            ,New York,US Currency,"$38,082,824 ",2019
+New York,NY            ,New York,US Currency,"$42,259,731 ",2019
+New York,NY            ,New York,US Currency,"$47,204,154 ",2019
+New York,NY            ,New York,US Currency,"$415,055,702 ",2019
+New York,NY            ,New York,Financial Instrument - Clearing House Interbank Payments System (CHIPS) Account,"$1,488,337 ",2019
+New York,NY            ,New York,Financial Instrument - Cryptocurrency/Ethereum,"$1,910,069 ",2019
+New York,NY            ,New York,Financial Instrument - Cryptocurrency,"$2,242,438 ",2019
+New York,NY            ,New York,Financial Instrument - Financial Account,"$17,414,239 ",2019
+New York,NY            ,New York,Financial Instrument - Cryptocurrency/Ethereum,"$44,680,998 ",2019
+New York,NY            ,New York,Real Property,"$3,400,000 ",2019
+Depew,NY             ,New York,US Currency,"$60,157,955 ",2019
+Jericho,NY             ,New York,US Currency,"$2,612,368 ",2017
+Jericho,NY             ,New York,US Currency,"$2,612,368 ",2018
+Jericho,NY             ,New York,US Currency,"$2,612,368 ",2019
+Jersey City,NY             ,New York,US Currency,"$2,003,668 ",2019
+Montauk,NY             ,New York,US Currency,"$2,258,926 ",2015
+Yonkers,NY             ,New York,US Currency,"$1,210,015 ",2015
+Yonkers,NY             ,New York,US Currency,"$1,210,015 ",2016
+Armonk,NY              ,New York,US Currency,"$1,125,000 ",2018
+Armonk,NY              ,New York,US Currency,"$1,125,000 ",2019
+Newark,NY              ,New York,US Currency,"$1,453,592 ",2015
+Newark,NY              ,New York,US Currency,"$1,453,592 ",2016
+Newark,NY              ,New York,US Currency,"$1,453,592 ",2017
+Newark,NY              ,New York,US Currency,"$1,453,592 ",2018
+Newark,NY              ,New York,US Currency,"$1,453,592 ",2019
+Depew,NY               ,New York,US Currency,"$5,917,512 ",2019
+Omaha,NY               ,New York,US Currency,"$2,689,160 ",2016
+Utica,NY               ,New York,US Currency,"$2,073,530 ",2015
+Cincinnati,OH      ,Ohio,US Currency,"$1,711,999 ",2015
+North Olmsted,OH       ,Ohio,US Currency,"$1,024,083 ",2018
+Cincinnati,OH         ,Ohio,US Currency,"$3,961,511 ",2019
+Westerville,OH         ,Ohio,US Currency,"$1,041,600 ",2019
+Westerville,OH         ,Ohio,US Currency,"$1,125,367 ",2019
+Westerville,OH         ,Ohio,US Currency,"$1,479,684 ",2019
+Westerville,OH         ,Ohio,US Currency,"$1,491,691 ",2019
+Westerville,OH         ,Ohio,US Currency,"$2,300,733 ",2019
+Cincinnati,OH          ,Ohio,US Currency,"$1,145,845 ",2015
+Cincinnati,OH          ,Ohio,US Currency,"$1,771,165 ",2015
+Cincinnati,OH          ,Ohio,Financial Instrument - Financial Account,"$1,222,224 ",2019
+Cleveland,OH           ,Ohio,US Currency,"$2,000,000 ",2015
+Cleveland,OH           ,Ohio,US Currency,"$1,200,000 ",2016
+Cleveland,OH           ,Ohio,US Currency,"$1,152,375 ",2019
+Cleveland,OH           ,Ohio,US Currency,"$14,087,073 ",2019
+Columbus,OH            ,Ohio,US Currency,"$6,224,621 ",2017
+Columbus,OH            ,Ohio,US Currency,"$7,020,356 ",2017
+Columbus,OH            ,Ohio,US Currency,"$2,244,772 ",2018
+Columbus,OH            ,Ohio,US Currency,"$2,244,772 ",2019
+Ashland,OH             ,Ohio,US Currency,"$1,482,520 ",2019
+Dublin,OH              ,Ohio,US Currency,"$2,968,881 ",2019
+Dublin,OH              ,Ohio,US Currency,"$3,549,723 ",2019
+Toledo,OH              ,Ohio,US Currency,"$1,075,115 ",2019
+Portland,OR            ,Oregon,US Currency,"$1,619,120 ",2018
+Portland,OR            ,Oregon,US Currency,"$1,619,120 ",2019
+Philadelphia,PA,Pennsylvania,US Currency,"$1,135,702 ",2015
+Huntingdon Valley,PA   ,Pennsylvania,US Currency,"$1,095,722 ",2018
+Philadelphia,PA        ,Pennsylvania,US Currency,"$1,135,702 ",2016
+Philadelphia,PA        ,Pennsylvania,US Currency,"$1,135,702 ",2017
+Philadelphia,PA        ,Pennsylvania,US Currency,"$2,000,000 ",2017
+Philadelphia,PA        ,Pennsylvania,US Currency,"$1,135,702 ",2018
+Philadelphia,PA        ,Pennsylvania,US Currency,"$1,693,817 ",2018
+Philadelphia,PA        ,Pennsylvania,US Currency,"$2,000,000 ",2018
+Philadelphia,PA        ,Pennsylvania,US Currency,"$1,188,075 ",2019
+Pittsburgh,PA        ,Pennsylvania,US Currency,"$1,533,217 ",2019
+Valley Forge,PA        ,Pennsylvania,US Currency,"$2,175,644 ",2015
+Haverford,PA         ,Pennsylvania,US Currency,"$1,066,435 ",2019
+Glen Mills,PA          ,Pennsylvania,Financial Instrument - Financial Account,"$8,666,829 ",2017
+Glen Mills,PA          ,Pennsylvania,Financial Instrument - Financial Account,"$8,666,829 ",2018
+Glen Mills,PA          ,Pennsylvania,US Currency,"$14,702,245 ",2019
+Pittsburgh,PA          ,Pennsylvania,US Currency,"$1,533,217 ",2016
+Pittsburgh,PA          ,Pennsylvania,US Currency,"$1,533,217 ",2017
+Pittsburgh,PA          ,Pennsylvania,US Currency,"$1,533,217 ",2018
+Bryn Mawr,PA           ,Pennsylvania,US Currency,"$1,649,169 ",2015
+Bryn Mawr,PA           ,Pennsylvania,US Currency,"$1,649,169 ",2016
+Bryn Mawr,PA           ,Pennsylvania,US Currency,"$1,649,169 ",2017
+Bryn Mawr,PA           ,Pennsylvania,US Currency,"$1,649,169 ",2018
+Bryn Mawr,PA           ,Pennsylvania,US Currency,"$1,649,169 ",2019
+Haverford,PA           ,Pennsylvania,US Currency,"$1,066,435 ",2017
+Haverford,PA           ,Pennsylvania,US Currency,"$1,066,435 ",2018
+Haverford,PA           ,Pennsylvania,US Currency,"$2,200,461 ",2018
+Haverford,PA           ,Pennsylvania,US Currency,"$2,200,461 ",2019
+Glenside,PA            ,Pennsylvania,US Currency,"$1,864,545 ",2016
+Glenside,PA            ,Pennsylvania,US Currency,"$1,864,545 ",2017
+Glenside,PA            ,Pennsylvania,US Currency,"$1,864,545 ",2018
+Glenside,PA            ,Pennsylvania,US Currency,"$1,864,545 ",2019
+Hazleton,PA            ,Pennsylvania,US Currency,"$2,901,267 ",2015
+Hazleton,PA            ,Pennsylvania,US Currency,"$2,901,267 ",2016
+Hazleton,PA            ,Pennsylvania,US Currency,"$2,901,267 ",2017
+Hazleton,PA            ,Pennsylvania,US Currency,"$2,901,267 ",2018
+Hazleton,PA            ,Pennsylvania,US Currency,"$2,901,267 ",2019
+Scranton,PA            ,Pennsylvania,US Currency,"$1,500,000 ",2018
+Scranton,PA            ,Pennsylvania,US Currency,"$1,500,000 ",2019
+Douglas,PA             ,Pennsylvania,Financial Instrument - Financial Account,"$1,949,641 ",2015
+Douglas,PA             ,Pennsylvania,Financial Instrument - Financial Account,"$1,949,641 ",2016
+Latrobe,PA             ,Pennsylvania,Miscellaneous Jewelry,"$5,128,642 ",2015
+Latrobe,PA             ,Pennsylvania,Miscellaneous Jewelry,"$5,128,642 ",2016
+Latrobe,PA             ,Pennsylvania,Miscellaneous Jewelry,"$5,128,642 ",2017
+Latrobe,PA             ,Pennsylvania,Miscellaenous Jewelry,"$5,128,642 ",2018
+Latrobe,PA             ,Pennsylvania,Miscellaneous Jewelry,"$5,128,642 ",2019
+Malvern,PA             ,Pennsylvania,US Currency,"$2,345,214 ",2019
+Wayne,PA               ,Pennsylvania,US Currency,"$1,098,323 ",2016
+San Juan,PR,Puerto Rico,Financial Instrument - Financial Account,"$1,000,000 ",2019
+San Juan,PR,Puerto Rico,Financial Instrument - Financial Account,"$3,425,513 ",2019
+Carolina,PR            ,Puerto Rico,US Currency,"$1,483,035 ",2015
+San Juan,PR            ,Puerto Rico,US Currency,"$2,563,023 ",2015
+San Juan,PR            ,Puerto Rico,US Currency,"$2,563,023 ",2016
+San Juan,PR            ,Puerto Rico,US Currency,"$2,563,023 ",2017
+San Juan,PR            ,Puerto Rico,US Currency,"$2,563,023 ",2018
+San Juan,PR            ,Puerto Rico,US Currency,"$2,563,023 ",2019
+Yauco,PR            ,Puerto Rico,US Currency,"$1,048,064 ",2016
+Fajardo,PR             ,Puerto Rico,US Currency,"$3,882,094 ",2019
+Ponce,PR               ,Puerto Rico,US Currency,"$2,101,995 ",2016
+Ponce,PR               ,Puerto Rico,US Currency,"$2,350,905 ",2016
+Ponce,PR               ,Puerto Rico,US Currency,"$2,101,995 ",2017
+Ponce,PR               ,Puerto Rico,US Currency,"$2,350,905 ",2017
+Ponce,PR               ,Puerto Rico,US Currency,"$2,101,995 ",2018
+Ponce,PR               ,Puerto Rico,US Currency,"$2,350,905 ",2018
+Ponce,PR               ,Puerto Rico,US Currency,"$2,101,995 ",2019
+Ponce,PR               ,Puerto Rico,US Currency,"$2,350,905 ",2019
+Columbia,SC           ,South Carolina,US Currency,"$2,608,917 ",2019
+Fort Mill,SC           ,South Carolina,US Currency,"$1,355,793 ",2019
+Columbia,SC            ,South Carolina,US Currency,"$1,335,371 ",2019
+Columbia,SC            ,South Carolina,US Currency,"$3,363,641 ",2019
+Knoxville,TN          ,Tennessee,US Currency,"$3,833,637 ",2019
+Birchwood,TN           ,Tennessee,US Currency,"$1,912,721 ",2017
+Birchwood,TN           ,Tennessee,US Currency,"$1,912,721 ",2018
+Birchwood,TN           ,Tennessee,US Currency,"$1,912,721 ",2019
+Knoxville,TN           ,Tennessee,US Currency,"$3,833,637 ",2015
+Knoxville,TN           ,Tennessee,US Currency,"$3,833,637 ",2016
+Knoxville,TN           ,Tennessee,US Currency,"$3,833,637 ",2017
+Knoxville,TN           ,Tennessee,US Currency,"$3,833,637 ",2018
+Knoxville,TN           ,Tennessee,US Currency,"$2,350,000 ",2019
+Memphis,TN             ,Tennessee,Miscellaneous Jewelry,"$1,018,300 ",2019
+Athens,TN              ,Tennessee,US Currency,"$6,579,517 ",2015
+Houston,TX,Texas,Aircraft,"$1,800,214 ",2016
+Houston,TX,Texas,Aircraft,"$2,800,664 ",2016
+Valley Mills,TX,Texas,Real Property,"$2,225,000 ",2019
+Denison,TX  ,Texas,Aircraft,"$1,305,924 ",2015
+Rio Grande City,TX     ,Texas,US Currency,"$1,487,005 ",2019
+San Antonio,TX     ,Texas,US Currency,"$11,314,205 ",2018
+San Antonio,TX     ,Texas,US Currency,"$25,002,569 ",2018
+Corpus Christi,TX      ,Texas,US Currency,"$1,262,725 ",2019
+Ransom Canyon,TX      ,Texas,US Currency,"$1,057,495 ",2016
+Ransom Canyon,TX       ,Texas,US Currency,"$1,057,495 ",2015
+Brownsville,TX         ,Texas,US Currency,"$1,379,500 ",2018
+San Antonio,TX         ,Texas,US Currency,"$1,214,233 ",2015
+San Antonio,TX         ,Texas,US Currency,"$1,627,000 ",2015
+San Antonio,TX         ,Texas,US Currency,"$1,771,721 ",2016
+San Antonio,TX         ,Texas,US Currency,"$1,601,542 ",2017
+San Antonio,TX         ,Texas,US Currency,"$3,736,504 ",2017
+San Antonio,TX         ,Texas,US Currency,"$4,083,935 ",2017
+San Antonio,TX         ,Texas,US Currency,"$1,025,454 ",2019
+San Antonio,TX         ,Texas,US Currency,"$1,279,944 ",2019
+San Antonio,TX         ,Texas,US Currency,"$1,374,194 ",2019
+San Antonio,TX         ,Texas,US Currency,"$1,412,086 ",2019
+San Antonio,TX         ,Texas,US Currency,"$1,422,147 ",2019
+San Antonio,TX         ,Texas,US Currency,"$1,453,009 ",2019
+San Antonio,TX         ,Texas,US Currency,"$1,502,928 ",2019
+San Antonio,TX         ,Texas,US Currency,"$1,712,418 ",2019
+Fort Worth,TX          ,Texas,Financial Instrument - Perth Mint Precious Metals Certificates,"$2,668,636 ",2015
+Fort Worth,TX          ,Texas,Financial Instrument - Financial Account,"$1,815,847 ",2016
+Fort Worth,TX          ,Texas,US Currency,"$1,815,847 ",2017
+Fort Worth,TX          ,Texas,US Currency,"$1,815,847 ",2018
+Fort Worth,TX          ,Texas,US Currency,"$1,815,847 ",2019
+Mansfield,TX          ,Texas,US Currency,"$3,821,004 ",2017
+Montgomery,TX          ,Texas,US Currency,"$1,345,050 ",2015
+Montgomery,TX          ,Texas,US Currency,"$1,345,050 ",2016
+Arlington,TX           ,Texas,US Currency,"$1,938,600 ",2015
+Arlington,TX           ,Texas,US Currency,"$1,938,600 ",2016
+Mansfield,TX           ,Texas,US Currency,"$3,821,004 ",2015
+Mansfield,TX           ,Texas,US Currency,"$3,821,004 ",2016
+McAllen,TX           ,Texas,US Currency,"$1,579,836 ",2017
+Amarillo,TX            ,Texas,US Currency,"$1,000,000 ",2019
+Bay City,TX            ,Texas,US Currency,"$1,039,960 ",2016
+Bay City,TX            ,Texas,US Currency,"$1,039,960 ",2017
+Bay City,TX            ,Texas,US Currency,"$1,039,960 ",2018
+Denison,TX            ,Texas,Aircraft,"$1,305,924 ",2016
+Houston,TX            ,Texas,US Currency,"$3,374,919 ",2019
+Mission,TX            ,Texas,US Currency,"$2,142,805 ",2017
+Pasadena,TX            ,Texas,US Currency,"$1,570,214 ",2016
+Dallas ,TX             ,Texas,Financial Instrument - Cryptocurrency,"$1,577,712 ",2019
+Dallas,TX             ,Texas,Financial Instrument - Cryptocurrency,"$2,975,562 ",2018
+Denison,TX             ,Texas,Aircraft,"$1,305,924 ",2017
+El Paso,TX             ,Texas,US Currency,"$1,237,820 ",2015
+El Paso,TX             ,Texas,US Currency,"$1,521,910 ",2015
+El Paso,TX             ,Texas,US Currency,"$1,703,816 ",2015
+Houston,TX             ,Texas,Aircraft,"$1,800,214 ",2015
+Houston,TX             ,Texas,Aircraft,"$2,800,664 ",2015
+Houston,TX             ,Texas,US Currency,"$1,129,302 ",2015
+Houston,TX             ,Texas,US Currency,"$1,954,087 ",2015
+Houston,TX             ,Texas,US Currency,"$1,974,820 ",2015
+Houston,TX             ,Texas,US Currency,"$1,132,624 ",2016
+Houston,TX             ,Texas,Aircraft,"$1,800,214 ",2017
+Houston,TX             ,Texas,Aircraft,"$2,800,664 ",2017
+Houston,TX             ,Texas,Financial Instrument - Financial Account,"$4,520,915 ",2017
+Houston,TX             ,Texas,US Currency,"$1,177,983 ",2018
+Houston,TX             ,Texas,US Currency,"$3,374,919 ",2018
+Houston,TX             ,Texas,US Currency,"$4,520,915 ",2018
+Houston,TX             ,Texas,Financial Instrument - Financial Account,"$6,750,000 ",2018
+Houston,TX             ,Texas,US Currency,"$1,177,983 ",2019
+Houston,TX             ,Texas,US Currency,"$4,520,915 ",2019
+Houston,TX             ,Texas,Financial Instrument - Financial Account,"$6,750,000 ",2019
+Laredo,TX             ,Texas,Assorted Fragrances,"$1,171,448 ",2015
+Lubbock,TX             ,Texas,US Currency,"$2,148,003 ",2015
+Lubbock,TX             ,Texas,US Currency,"$2,148,003 ",2016
+McAllen,TX             ,Texas,US Currency,"$1,148,800 ",2015
+McAllen,TX             ,Texas,US Currency,"$1,579,836 ",2016
+McAllen,TX             ,Texas,US Currency,"$1,278,271 ",2018
+Mission,TX             ,Texas,US Currency,"$1,799,700 ",2015
+Mission,TX             ,Texas,US Currency,"$2,142,805 ",2016
+Mission,TX             ,Texas,US Currency,"$2,142,805 ",2018
+Dallas,TX              ,Texas,US Currency,"$1,225,000 ",2015
+Dallas,TX              ,Texas,US Currency,"$20,100,357 ",2017
+Dallas,TX              ,Texas,US Currency,"$4,480,466 ",2018
+Dallas,TX              ,Texas,US Currency,"$20,100,357 ",2018
+Dallas,TX              ,Texas,Financial Instrument - Cryptocurrency,"$1,320,001 ",2018
+Dallas,TX              ,Texas,Financial Instrument - Cryptocurrency,"$1,378,528 ",2018
+Dallas,TX              ,Texas,Financial Instrument - Cryptocurrency,"$2,447,516 ",2018
+Dallas,TX              ,Texas,Financial Instrument - Cryptocurrency,"$2,675,805 ",2018
+Dallas,TX              ,Texas,Financial Instrument - Cryptocurrency,"$3,340,067 ",2018
+Dallas,TX              ,Texas,US Currency,"$4,480,466 ",2019
+Dallas,TX              ,Texas,US Currency,"$5,193,679 ",2019
+Dallas,TX              ,Texas,US Currency,"$20,100,357 ",2019
+Dallas,TX              ,Texas,Financial Instrument - Cryptocurrency,"$1,607,872 ",2019
+Frisco,TX              ,Texas,Financial Instrument - Financial Account,"$2,412,785 ",2018
+Frisco,TX              ,Texas,US Currency,"$2,412,785 ",2019
+Laredo,TX              ,Texas,Assorted Fragrances,"$1,171,448 ",2016
+Laredo,TX              ,Texas,US Currency,"$1,679,453 ",2019
+Murphy,TX              ,Texas,US Currency,"$1,657,375 ",2015
+Hurst,TX               ,Texas,US Currency,"$2,134,263 ",2016
+Hurst,TX               ,Texas,US Currency,"$2,134,263 ",2017
+Hurst,TX               ,Texas,US Currency,"$2,134,263 ",2018
+Hurst,TX               ,Texas,US Currency,"$2,134,263 ",2019
+Kemah,TX               ,Texas,US Currency,"$1,372,406 ",2015
+Cottonwood Heights,UT,Utah,US Currency,"$1,227,773 ",2017
+Cottonwood Heights,UT,Utah,US Currency,"$1,227,773 ",2018
+Cottonwood Heights,UT,Utah,US Currency,"$1,227,773 ",2019
+Salt Lake City,UT      ,Utah,Financial Instrument - Cryptocurrency,"$2,197,869 ",2019
+Saint George,UT          ,Utah,US Currency,"$6,812,228 ",2015
+Sandy,UT               ,Utah,US Currency,"$1,769,576 ",2019
+Virginia Beach,VA      ,Virginia,US Currency,"$1,029,004 ",2018
+Manassas,VA           ,Virginia,US Currency,"$2,500,000 ",2019
+Manassas,VA           ,Virginia,US Currency,"$8,022,495 ",2019
+Sterling,VA           ,Virginia,Financial Instrument - Financial Account,"$1,318,886 ",2019
+Sterling,VA           ,Virginia,Financial Instrument - Financial Account,"$1,417,075 ",2019
+Manassas,VA            ,Virginia,US Currency,"$8,022,495 ",2018
+Manassas,VA            ,Virginia,Financial Instrument - Cryptocurrency,"$1,842,519 ",2019
+Norfolk,VA            ,Virginia,US Currency,"$9,754,810 ",2018
+Sterling,VA            ,Virginia,US Currency,"$2,038,840 ",2019
+Sterling,VA            ,Virginia,Financial Instrument - Financial Account,"$1,850,203 ",2019
+Norfolk,VA             ,Virginia,US Currency,"$3,859,839 ",2018
+Norfolk,VA             ,Virginia,US Currency,"$3,859,839 ",2019
+Norfolk,VA             ,Virginia,US Currency,"$9,754,810 ",2019
+Vienna,VA              ,Virginia,US Currency,"$2,945,058 ",2019
+Saint John,VI          ,Virgin Islands,US Currency,"$1,308,215 ",2019
+Brookfield,WI          ,Wisconsin,US Currency,"$1,349,496 ",2018
+Sturtevant,WI          ,Wisconsin,US Currency,"$1,110,960 ",2018
+Milwaukee,WI           ,Wisconsin,US Currency,"$2,206,398 ",2015
